@@ -5,12 +5,12 @@ shifted = circshift(shifted, 24, 1);    % vertical shift
 imagesc(shifted);
 
 %% Vertical Correction
-verticalOffset = find_vertical_offset(image, shifted, 250);
+verticalOffset = match_rows_multiple(image, shifted, 50, 2);
 shifted = circshift(shifted, -verticalOffset, 1);
 imagesc(shifted);
 
 %% Horizontal Correction
-horizontalOffset = find_horizontal_offset(image, shifted, 250);
+horizontalOffset = match_cols_multiple(image, shifted, 50, 2);
 shifted = circshift(shifted, -horizontalOffset, 2);
 imagesc(shifted);
 

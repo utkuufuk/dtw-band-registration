@@ -12,12 +12,12 @@ enhancedImageA = single(imadjust(imageA));
 enhancedImageB = single(imadjust(imageB));
 
 %% Correct Vertically
-verticalOffset = find_vertical_offset(enhancedImageA, enhancedImageB, SEARCH_RANGE);
+verticalOffset = match_rows_stripe(enhancedImageA, enhancedImageB, SEARCH_RANGE, 1);
 imageB = circshift(imageB, -verticalOffset, 1);
 enhancedImageB = circshift(enhancedImageB, -verticalOffset, 1);
 
 %% Correct Horizontally
-horizontalOffset = find_horizontal_offset(enhancedImageA, enhancedImageB, SEARCH_RANGE);
+horizontalOffset = match_cols_stripe(enhancedImageA, enhancedImageB, SEARCH_RANGE, 1);
 imageB = circshift(imageB, -horizontalOffset, 2);
 
 %% Write Output
