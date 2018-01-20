@@ -1,5 +1,7 @@
+addpath('../');
+
 %% Read input image and produce an additional 2D shifted image artificially
-image = single(imread('image/test/lena.bmp'));
+image = single(imread('lena.bmp'));
 shifted = circshift(image, 10, 2);      % horizontal shift
 shifted = circshift(shifted, 24, 1);    % vertical shift
 imagesc(shifted);

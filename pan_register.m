@@ -1,53 +1,70 @@
-% input image names
-PAN_NAME = 'image/input/pan.tif';
-IN_RED_NAME = 'image/input/red.tif';
-IN_GREEN_NAME = 'image/input/green.tif';
-IN_BLUE_NAME = 'image/input/blue.tif';
-% IN_IR_NAME = 'image/input/ir.tif';
-
-% output image names
-OUT_RED_NAME = 'image/output/red_resized_shifted.tif';
-OUT_GREEN_NAME = 'image/output/green_resized_shifted.tif';
-OUT_BLUE_NAME = 'image/output/blue_resized_shifted.tif';
-% OUT_IR_NAME = 'image/output/ir_resized_shifted.tif';
+clearvars
+clc
 
 % maximum anticipated number of rows/cols to shift
-SEARCH_RANGE = 40;
+SEARCH_RANGE = 50;
 
-%% Read Input Images
-pan = imread(PAN_NAME);
-red = imread(IN_RED_NAME);
-green = imread(IN_GREEN_NAME);
-blue = imread(IN_BLUE_NAME);
-% ir = imread(IN_IR_NAME);
+% start & end offsets to search for the reference rows/cols
+REF_ROW_MARGIN = 200;
 
-%% Upsample MSI
-red = imresize(red, 2);
-green = imresize(green, 2);
-blue = imresize(blue, 2);
-% ir = imresize(ir, 2);
+% sampling interval when selecting reference rows/cols
+RESOLUTION = 10;
 
-%% Enhance Contrast
-enhancedPan = single(imadjust(pan));
-enhancedRed = single(imadjust(red));
-enhancedGreen = single(imadjust(green));
-enhancedBlue = single(imadjust(blue));
-% enhancedIr = single(imadjust(ir));
+% number of reference rows & cols to measure dtw distance
+NUM_REF_ROWS = 15;
+NUM_REF_COLS = 15;
 
-%% Find Row(s) & Col(s) With Highest Frequency
-refRows = find_ref_rows(enhancedPan, 3, SEARCH_RANGE);
-refCols = find_ref_cols(enhancedPan, 3, SEARCH_RANGE);
-fprintf('Reference Rows: %s\n', sprintf('%d ', refRows));
-fprintf('Reference Cols: %s\n', sprintf('%d ', refCols));
+% number of test images
+NUM_IMAGES = 16;
 
-%% Shift MSI
-red = shift_image(enhancedPan, enhancedRed, red, refRows, refCols, SEARCH_RANGE);
-green = shift_image(enhancedPan, enhancedGreen, green, refRows, refCols, SEARCH_RANGE);
-blue = shift_image(enhancedPan, enhancedBlue, blue, refRows, refCols, SEARCH_RANGE);
-% ir = shift_image(enhancedPan, enhancedIr, ir, refRows, refCols, SEARCH_RANGE);
+% number of multispectral image bands
+NUM_MSI_BANDS = 4;
 
-%% Write Outputs
-imwrite(uint16(red), OUT_RED_NAME);
-imwrite(uint16(green), OUT_GREEN_NAME);
-imwrite(uint16(blue), OUT_BLUE_NAME);
-% imwrite(uint16(ir), OUT_IR_NAME);
+% image level to work on
+IMAGE_LEVEL = 'L1';
+
+for i = 1:NUM_IMAGES
+    %% Process Pan
+    % Read Pan
+    panImageName = strcat('images/', num2str(i), '/', IMAGE_LEVEL, '/0/image.tif');
+    pan = imread(panImageName);
+    numRows = size(pan, 1);
+    numCols = size(pan, 2);
+    
+    % Perform Horizontal & Vertical DWT
+    [panRowsLow, panRowsHigh, panColsLow, panColsHigh] = dwt_2d(pan);
+    
+    % Enhance Contrast
+    % panRowsLow = imadjust(panRowsLow);
+    % panColsLow = imadjust(panColsLow);
+    
+    % Find Rows and Cols With Highest Frequency
+    refRows = find_ref_rows(panRowsHigh, NUM_REF_ROWS, REF_ROW_MARGIN, RESOLUTION);
+    refCols = find_ref_cols(panColsHigh, NUM_REF_COLS, REF_ROW_MARGIN, RESOLUTION);
+    fprintf('Reference Rows: %s\n', sprintf('%d ', refRows));
+    fprintf('Reference Cols: %s\n', sprintf('%d ', refCols));
+    
+    %% Process MSI    
+    for b = 1:NUM_MSI_BANDS
+        % Read MSI
+        msiInputName{b} = strcat('images/', num2str(i), '/', IMAGE_LEVEL, '/', num2str(b), '/image.tif');
+        msiOutputName{b} = strcat('images/', num2str(i), '/', IMAGE_LEVEL, '/output/', num2str(b), '.tif');
+        msi{b} = imread(char(msiInputName{b}));
+        
+        % Upsample MSI
+        msi{b} = imresize(msi{b}, 2);
+        
+        % Perform Horizontal & Vertical DWT
+        [msiRowsLow{b}, msiRowsHigh{b}, msiColsLow{b}, msiColsHigh{b}] = dwt_2d(msi{b});
+        
+        % Enhance Contrast
+        % msiRowsLow{b} = imadjust(msiRowsLow{b});
+        % msiColsLow{b} = imadjust(msiColsLow{b});
+        
+        % Shift MSI
+        msi{b} = shift_image(panRowsLow, panColsLow, msiRowsLow{b}, msiColsLow{b}, msi{b}, refRows, refCols, SEARCH_RANGE);
+        
+        % Write Outputs
+        imwrite(uint16(msi{b}), char(msiOutputName{b}));
+    end
+end

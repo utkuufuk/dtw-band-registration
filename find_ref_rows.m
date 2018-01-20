@@ -1,16 +1,15 @@
-function refRows = find_ref_rows(image, numRefRows, margin)
-
-    numRows = size(image, 1);
-    numCols = size(image, 2);
-
-    low = zeros(numRows - 2 * margin, (numCols / 2) + 2);
-    high = zeros(numRows - 2 * margin, (numCols / 2) + 2);
-
-    for r = margin + 1:numRows - margin
-        [low(r, :), high(r, :)] = dwt(image(r, :), 'bior2.2');
-    end
-
-    rowFreqs = sum(abs(high), 2);
-    [~, indices] = sort(rowFreqs,'descend');
-    refRows = indices(1:numRefRows);
+function refRows = find_ref_rows(dwtHigh, numRefRows, margin, resolution)
+    startRow = margin + 1;
+    endRow = size(dwtHigh, 1) - margin;
+    rowFreqs = sum(abs(dwtHigh(startRow:endRow, :)), 2);
+    
+%     for r = 1:size(dwtHigh, 1)
+%        if rem(r, resolution) ~= 0
+%            rowFreqs(r) = 0;
+%        end
+%     end
+    
+    [~, indices] = sort(rowFreqs, 'descend');
+    refRows = indices(1:numRefRows) + margin;
 end
+
