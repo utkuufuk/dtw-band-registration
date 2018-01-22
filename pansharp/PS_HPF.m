@@ -7,36 +7,37 @@
 % @author mustafa.teke
 % @author ezgi.san
 % @author ibrahim.acikgoz
+% @author utku.ufuk
 
-function [Pansharp] = PS_HPF(Pan, MSImage, HighPassWeight)
-tic
- 
-if( strcmp( class(MSImage),'double') == 0 )
-    MSImage = double(MSImage);
-end
+function Pansharp = PS_HPF(Pan, MSImage, HighPassWeight)
+    tic
 
-if( strcmp( class(Pan),'double') == 0 )
-    Pan = double(Pan);
-end
+    if (strcmp(class(MSImage), 'double') == 0)
+        MSImage = double(MSImage);
+    end
 
-% H = padarray(2,[2 2]) - fspecial('gaussian' ,[5 5],2);
-r = 2;
-H = -1*ones (2*r+1,2*r+1);
-H(3,3) = (2*r+1) *( 2*r+1)- 1;
+    if (strcmp( class(Pan),'double') == 0)
+        Pan = double(Pan);
+    end
 
-%Pana elde edilen filtre uygulanir ve yuksek geciren elde edilir.
-sharpened = imfilter(Pan,H);
-%Elde edilen yuksek geciren, katsayi ile carpilir
-SharpenedLayer = HighPassWeight * double(sharpened) ;
+    % H = padarray(2,[2 2]) - fspecial('gaussian' ,[5 5],2);
+    r = 2;
+    H = -1 * ones (2 * r + 1, 2 * r + 1);
+    H(3, 3) = (2 * r + 1) * (2 * r + 1) - 1;
 
-[rows, cols, bands] = size(MSImage);
-Pansharp = zeros(rows, cols, bands);
-%Olusturulan keskin goruntu tum bantlara eklenir.
-parfor band = 1:bands
-    Pansharp(:, :, band) =  MSImage(:, :, band) + SharpenedLayer;
-end
+    % Pana elde edilen filtre uygulanir ve yuksek geciren elde edilir.
+    sharpened = imfilter(Pan, H);
+    % Elde edilen yuksek geciren, katsayi ile carpilir
+    SharpenedLayer = HighPassWeight * double(sharpened);
 
-disp('HPF=');
-toc
+    [rows, cols, bands] = size(MSImage);
+    Pansharp = zeros(rows, cols, bands);
+    
+    % Olusturulan keskin goruntu tum bantlara eklenir.
+    parfor band = 1:bands
+        Pansharp(:, :, band) =  MSImage(:, :, band) + SharpenedLayer;
+    end
 
+    disp('HPF = ');
+    toc
 end
