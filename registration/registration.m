@@ -37,7 +37,7 @@ for i = 1:NUM_IMAGES
     fprintf('\nProcessing image #%d:\n\n', i);
 
     % read pan image
-    panImageName = strcat('images/', num2str(i), '/', IMAGE_LEVEL, '/0/image.tif');
+    panImageName = strcat('../images/', num2str(i), '/', IMAGE_LEVEL, '/0/image.tif');
     pan = imread(panImageName);
     numRows = size(pan, 1);
     numCols = size(pan, 2);
@@ -55,7 +55,7 @@ for i = 1:NUM_IMAGES
         fprintf('\nTaking the first %d reference rows & cols:\n', r);
 
         % create new directory for output images
-        msiOutputDir = strcat('images/', num2str(i), '/', IMAGE_LEVEL, ... 
+        msiOutputDir = strcat('../images/', num2str(i), '/', IMAGE_LEVEL, ... 
                               OUTPUT_DIR_PREFIX, num2str(r), '/');
         mkdir(msiOutputDir);
 
@@ -63,7 +63,7 @@ for i = 1:NUM_IMAGES
             fprintf('\nBand #%d:\n', b);
             
             % read the MSI band
-            msiInputName{b} = strcat('images/', num2str(i), '/', IMAGE_LEVEL, '/', ...
+            msiInputName{b} = strcat('../images/', num2str(i), '/', IMAGE_LEVEL, '/', ...
                                      num2str(b), '/image.tif');
             msiOutputName{b} = strcat(msiOutputDir, num2str(b), '.tif');
             msi{b} = imread(char(msiInputName{b}));
