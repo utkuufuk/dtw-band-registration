@@ -34,7 +34,7 @@ msiColsLow = cell(1, NUM_MSI_BANDS);
 msiColsHigh = cell(1, NUM_MSI_BANDS);
 
 for i = 1:NUM_IMAGES
-    fprintf('\nProcessing image #%d\n\n', i);
+    fprintf('\nProcessing image #%d:\n\n', i);
 
     % read pan image
     panImageName = strcat('images/', num2str(i), '/', IMAGE_LEVEL, '/0/image.tif');
@@ -60,7 +60,7 @@ for i = 1:NUM_IMAGES
         mkdir(msiOutputDir);
 
         for b = 1:NUM_MSI_BANDS
-            fprintf('Band #%d:\n', b);
+            fprintf('\nBand #%d:\n', b);
             
             % read the MSI band
             msiInputName{b} = strcat('images/', num2str(i), '/', IMAGE_LEVEL, '/', ...
