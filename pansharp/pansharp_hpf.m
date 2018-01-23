@@ -9,30 +9,28 @@
 % @author ibrahim.acikgoz
 % @author utku.ufuk
 
-function Pansharp = pansharp_hpf(Pan, MSImage, HighPassWeight)
-    if (strcmp(class(MSImage), 'double') == 0)
-        MSImage = double(MSImage);
+function pansharp = pansharp_hpf(pan, msi, highPassWeight)
+    if (isa(msi, 'double') == 0)
+        msi = double(msi);
     end
 
-    if (strcmp( class(Pan), 'double') == 0)
-        Pan = double(Pan);
+    if (isa(pan, 'double') == 0)
+        pan = double(pan);
     end
 
-    % H = padarray(2,[2 2]) - fspecial('gaussian' ,[5 5],2);
+    % filter = padarray(2,[2 2]) - fspecial('gaussian' ,[5 5],2);
     r = 2;
-    H = -1 * ones (2 * r + 1, 2 * r + 1);
-    H(3, 3) = (2 * r + 1) * (2 * r + 1) - 1;
+    filter = -1 * ones (2 * r + 1, 2 * r + 1);
+    filter(3, 3) = (2 * r + 1) * (2 * r + 1) - 1;
 
-    % Pana elde edilen filtre uygulanir ve yuksek geciren elde edilir.
-    sharpened = imfilter(Pan, H);
-    % Elde edilen yuksek geciren, katsayi ile carpilir
-    SharpenedLayer = HighPassWeight * double(sharpened);
+    sharpened = imfilter(pan, filter);
+    sharpenedLayer = highPassWeight * double(sharpened);
 
-    [rows, cols, bands] = size(MSImage);
-    Pansharp = zeros(rows, cols, bands);
+    [rows, cols, bands] = size(msi);
+    pansharp = zeros(rows, cols, bands);
     
-    % Olusturulan keskin goruntu tum bantlara eklenir.
-    parfor band = 1:bands
-        Pansharp(:, :, band) =  MSImage(:, :, band) + SharpenedLayer;
+    % add the sharpened image to MSI bands
+    parfor b = 1:bands
+        pansharp(:, :, b) =  msi(:, :, b) + sharpenedLayer;
     end
 end
