@@ -22,16 +22,7 @@ NUM_MSI_BANDS = 3;
 IMAGE_LEVEL = 'L1';
 
 % output directory prefix
-OUTPUT_DIR_PREFIX = '/enhanced_output_';
-
-% initialize cell arrays
-msi = cell(1, NUM_MSI_BANDS);
-msiInputName = cell(1, NUM_MSI_BANDS);
-msiOutputName = cell(1, NUM_MSI_BANDS);
-msiRowsLow = cell(1, NUM_MSI_BANDS);
-msiRowsHigh = cell(1, NUM_MSI_BANDS);
-msiColsLow = cell(1, NUM_MSI_BANDS);
-msiColsHigh = cell(1, NUM_MSI_BANDS);
+OUT_DIR_PREFIX = '/enhanced_output_';
 
 for i = 1:NUM_IMAGES
     fprintf('\nProcessing image #%d:\n\n', i);
@@ -55,35 +46,34 @@ for i = 1:NUM_IMAGES
         fprintf('\nTaking the first %d reference rows & cols:\n', r);
 
         % create new directory for output images
-        msiOutputDir = strcat('../images/', num2str(i), '/', IMAGE_LEVEL, ... 
-                              OUTPUT_DIR_PREFIX, num2str(r), '/');
-        mkdir(msiOutputDir);
+        msiOutDir = strcat('../images/', num2str(i), '/', IMAGE_LEVEL, ... 
+                              OUT_DIR_PREFIX, num2str(r), '/');
+        mkdir(msiOutDir);
 
         for b = 1:NUM_MSI_BANDS
             fprintf('\nBand #%d:\n', b);
             
             % read the MSI band
-            msiInputName{b} = strcat('../images/', num2str(i), '/', IMAGE_LEVEL, '/', ...
-                                     num2str(b), '/image.tif');
-            msiOutputName{b} = strcat(msiOutputDir, num2str(b), '.tif');
-            msi{b} = imread(char(msiInputName{b}));
+            msiInName = strcat('../images/', num2str(i), '/', IMAGE_LEVEL, '/', num2str(b), '/image.tif');
+            msiOutName = strcat(msiOutDir, num2str(b), '.tif');
+            msi = imread(msiInName);
 
             % upsample MSI using bicubic interpolation
-            msi{b} = imresize(msi{b}, 2);
+            msi = imresize(msi, 2);
 
             % perform horizontal & vertical DWT
-            [msiRowsLow{b}, msiRowsHigh{b}, msiColsLow{b}, msiColsHigh{b}] = dwt_2d(msi{b});
+            [msiRowsLow, msiRowsHigh, msiColsLow, msiColsHigh] = dwt_2d(msi);
 
             % enhance contrast
-            msiRowsLow{b} = msiRowsLow{b} * mean(panRowsLow(:)) / mean(msiRowsLow{b}(:));
-            msiColsLow{b} = msiColsLow{b} * mean(panColsLow(:)) / mean(msiColsLow{b}(:));
+            msiRowsLow = msiRowsLow * mean(panRowsLow(:)) / mean(msiRowsLow(:));
+            msiColsLow = msiColsLow * mean(panColsLow(:)) / mean(msiColsLow(:));
 
             % shift MSI
-            msi{b} = shift_image(panRowsLow, panColsLow, msiRowsLow{b}, msiColsLow{b}, ... 
-                                 msi{b}, refRows(1:r), refCols(1:r), SEARCH_RANGE);
+            msi = shift_image(panRowsLow, panColsLow, msiRowsLow, msiColsLow, ... 
+                              msi, refRows(1:r), refCols(1:r), SEARCH_RANGE);
 
             % write output
-            imwrite(uint16(msi{b}), char(msiOutputName{b}));
+            imwrite(uint16(msi), msiOutName);
         end
     end
 end
