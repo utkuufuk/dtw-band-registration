@@ -1,50 +1,47 @@
 % HCS is developed for fusing eight spectral band of WorldView-2 satellite.
 % Transformation from RGB color space to hyperspherical color space is based
 % on transformation between n dimensional cartesian space and n dimensional
-% hypersphere space. After image is transmitted to HCS environment, it is
-% possible to scaling intensity without any change of color value 
+% hypersphere space.
 %
 % @author mustafa.teke
 % @author ibrahim.acikgoz
 % @author utku.ufuk
 
-function fusedimage = HCS(Pan, MSImage)
-    tic
-    
-    if (strcmp(class(MSImage), 'double') == 0)
-        MSImage = double(MSImage);
+function fusedImage = pansharp_hcs(pan, msi)
+    if (isa(msi, 'double') == 0)
+        msi = double(msi);
     end
 
-    if (strcmp(class(Pan), 'double') == 0)
-        Pan = double(Pan);
+    if (isa(pan, 'double') == 0)
+        pan = double(pan);
     end
 
-    [rows, cols, bands] = size(MSImage);
+    [rows, cols, bands] = size(msi);
 
     I2 = zeros(rows, cols);
     
     for i = 1:bands
-        I2 = I2 + MSImage(:, :, i) .* MSImage(:, :, i);
+        I2 = I2 + msi(:, :, i) .* msi(:, :, i);
     end
     
     for i = 1:bands - 1
         tempSum = zeros(rows, cols);
 
         for j = i + 1:bands
-            tempSum = tempSum + MSImage(:, :, j) .* MSImage(:, :, j);
+            tempSum = tempSum + msi(:, :, j) .* msi(:, :, j);
         end
 
-        Fi(:, :, i) = atan(sqrt(tempSum) ./ MSImage(:, :, i));
+        Fi(:, :, i) = atan(sqrt(tempSum) ./ msi(:, :, i));
     end
     h = fspecial('average', [7 7]);
-    P2 = Pan .* Pan;
+    P2 = pan .* pan;
 
     Sigma1 = std2(P2);
     Sigma0 = std2(I2);
     Mu1 = mean2(P2);
     Mu0 = mean2(I2);
 
-    P2 = (Sigma0/Sigma1)*(P2 - Mu1 + Sigma1) + Mu0 -Sigma0;
+    P2 = (Sigma0 / Sigma1) * (P2 - Mu1 + Sigma1) + Mu0 - Sigma0;
 
     IAdj = real(sqrt(P2));
 
@@ -60,9 +57,6 @@ function fusedimage = HCS(Pan, MSImage)
     end
     
     for i = 1:bands
-        fusedimage(:, :, i) = IAdj .* sinTree(:, :, i) .* cosTree(:, :, i);
+        fusedImage(:, :, i) = IAdj .* sinTree(:, :, i) .* cosTree(:, :, i);
     end
-
-    disp('HCS = ');
-    toc
 end

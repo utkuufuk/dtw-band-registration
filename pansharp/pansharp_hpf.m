@@ -9,14 +9,12 @@
 % @author ibrahim.acikgoz
 % @author utku.ufuk
 
-function Pansharp = PS_HPF(Pan, MSImage, HighPassWeight)
-    tic
-
+function Pansharp = pansharp_hpf(Pan, MSImage, HighPassWeight)
     if (strcmp(class(MSImage), 'double') == 0)
         MSImage = double(MSImage);
     end
 
-    if (strcmp( class(Pan),'double') == 0)
+    if (strcmp( class(Pan), 'double') == 0)
         Pan = double(Pan);
     end
 
@@ -37,7 +35,4 @@ function Pansharp = PS_HPF(Pan, MSImage, HighPassWeight)
     parfor band = 1:bands
         Pansharp(:, :, band) =  MSImage(:, :, band) + SharpenedLayer;
     end
-
-    disp('HPF = ');
-    toc
 end
