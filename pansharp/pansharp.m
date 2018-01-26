@@ -18,9 +18,6 @@ MARGIN = 60;
 % number of reference rows & cols in each iteration
 NUM_REF_ROWS_COLS = linspace(1, 25, 5);
 
-% output directory prefix
-OUTPUT_DIR_PREFIX = '/enhanced_output_';
-
 % create blank images to store the msi bands
 msiDtwSimpleL0 = zeros(NUM_ROWS_DTW, NUM_COLS_L0, NUM_MSI_BANDS);
 msiDtwSimpleL1 = zeros(NUM_ROWS_DTW, NUM_COLS_L1, NUM_MSI_BANDS);
@@ -28,7 +25,7 @@ msiDtwEnhancedL0 = zeros(NUM_ROWS_DTW, NUM_COLS_L0, NUM_MSI_BANDS);
 msiDtwEnhancedL1 = zeros(NUM_ROWS_DTW, NUM_COLS_L1, NUM_MSI_BANDS);
 msiSift = zeros(NUM_ROWS_SIFT, NUM_COLS_L1, NUM_MSI_BANDS);
 
-for i = 1:NUM_IMAGES
+for i = 11:NUM_IMAGES
     % read L0, L1 and L1R pan images
     panImageNameL0 = strcat('../images/', num2str(i), '/L0/0/image.tif');
     panImageNameL1 = strcat('../images/', num2str(i), '/L1/0/image.tif');
