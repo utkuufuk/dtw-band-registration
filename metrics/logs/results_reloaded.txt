@@ -1,0 +1,1629 @@
+
+IMAGE #1:
+------------------------------------------------------------
+L0 Raw Image:
+0,959377
+0,990130
+0,954646
+Average: 0,968051
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+0,965285
+0,993484
+0,964572
+Average: 0,974447
+
+L0 Enhanced Regisered Image:
+0,970202
+0,995413
+0,969680
+Average: 0,978432
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+0,965387
+0,993375
+0,966468
+Average: 0,975077
+
+L0 Enhanced Regisered Image:
+0,970202
+0,995413
+0,969680
+Average: 0,978432
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+0,965769
+0,993533
+0,966317
+Average: 0,975207
+
+L0 Enhanced Regisered Image:
+0,971475
+0,995638
+0,970278
+Average: 0,979130
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+0,965789
+0,993546
+0,966325
+Average: 0,975220
+
+L0 Enhanced Regisered Image:
+0,971475
+0,995638
+0,970278
+Average: 0,979130
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+0,967448
+0,994078
+0,968233
+Average: 0,976586
+
+L0 Enhanced Regisered Image:
+0,971475
+0,995638
+0,970278
+Average: 0,979130
+
+
+L1 Raw Image:
+0,966438
+0,994707
+0,963675
+Average: 0,974940
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+0,968106
+0,994354
+0,969141
+Average: 0,977201
+
+L1 Enhanced Regisered Image:
+0,970141
+0,995661
+0,974948
+Average: 0,980250
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+0,966497
+0,993843
+0,967805
+Average: 0,976048
+
+L1 Enhanced Regisered Image:
+0,971051
+0,995676
+0,970668
+Average: 0,979131
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+0,967186
+0,994185
+0,968468
+Average: 0,976613
+
+L1 Enhanced Regisered Image:
+0,971051
+0,995676
+0,970668
+Average: 0,979131
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+0,968486
+0,994865
+0,969783
+Average: 0,977711
+
+L1 Enhanced Regisered Image:
+0,972298
+0,995894
+0,971271
+Average: 0,979821
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+0,969873
+0,995171
+0,970223
+Average: 0,978422
+
+L1 Enhanced Regisered Image:
+0,972298
+0,995894
+0,971271
+Average: 0,979821
+
+
+L1 Reference Image:
+0,980995
+0,987894
+0,977667
+Average: 0,982185
+
+
+IMAGE #2:
+------------------------------------------------------------
+L0 Raw Image:
+0,943405
+0,982122
+0,932329
+Average: 0,952619
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+0,885128
+0,955475
+0,935877
+Average: 0,925493
+
+L0 Enhanced Regisered Image:
+0,962047
+0,992488
+0,954396
+Average: 0,969644
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+0,877200
+0,948201
+0,934560
+Average: 0,919987
+
+L0 Enhanced Regisered Image:
+0,962631
+0,992542
+0,946517
+Average: 0,967230
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+0,876629
+0,947970
+0,934159
+Average: 0,919586
+
+L0 Enhanced Regisered Image:
+0,962631
+0,992542
+0,946517
+Average: 0,967230
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+0,889493
+0,957678
+0,933330
+Average: 0,926834
+
+L0 Enhanced Regisered Image:
+0,962631
+0,992542
+0,946517
+Average: 0,967230
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+0,876900
+0,948078
+0,934309
+Average: 0,919762
+
+L0 Enhanced Regisered Image:
+0,962631
+0,992542
+0,946517
+Average: 0,967230
+
+
+L1 Raw Image:
+0,956715
+0,991964
+0,951546
+Average: 0,966742
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+0,905243
+0,977397
+0,931433
+Average: 0,938024
+
+L1 Enhanced Regisered Image:
+0,967813
+0,993670
+0,951593
+Average: 0,971025
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+0,914380
+0,981686
+0,942688
+Average: 0,946251
+
+L1 Enhanced Regisered Image:
+0,963594
+0,993165
+0,947779
+Average: 0,968179
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+0,907901
+0,979058
+0,938395
+Average: 0,941784
+
+L1 Enhanced Regisered Image:
+0,963594
+0,993165
+0,947779
+Average: 0,968179
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+0,948980
+0,989928
+0,952439
+Average: 0,963782
+
+L1 Enhanced Regisered Image:
+0,963594
+0,993165
+0,947779
+Average: 0,968179
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+0,949624
+0,990268
+0,953238
+Average: 0,964377
+
+L1 Enhanced Regisered Image:
+0,963594
+0,993165
+0,947779
+Average: 0,968179
+
+
+L1 Reference Image:
+0,959105
+0,970784
+0,884468
+Average: 0,938119
+
+
+IMAGE #3:
+------------------------------------------------------------
+L0 Raw Image:
+0,917780
+0,972278
+0,923300
+Average: 0,937786
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+0,941162
+0,978304
+0,954840
+Average: 0,958102
+
+L0 Enhanced Regisered Image:
+0,947305
+0,984700
+0,972009
+Average: 0,968005
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+0,957282
+0,986859
+0,960864
+Average: 0,968335
+
+L0 Enhanced Regisered Image:
+0,947305
+0,984700
+0,972009
+Average: 0,968005
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+0,948750
+0,984668
+0,949867
+Average: 0,961095
+
+L0 Enhanced Regisered Image:
+0,942195
+0,983554
+0,956866
+Average: 0,960872
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+0,949461
+0,984902
+0,946960
+Average: 0,960441
+
+L0 Enhanced Regisered Image:
+0,942195
+0,983554
+0,956866
+Average: 0,960872
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+0,949461
+0,984902
+0,946960
+Average: 0,960441
+
+L0 Enhanced Regisered Image:
+0,942195
+0,983554
+0,956866
+Average: 0,960872
+
+
+L1 Raw Image:
+0,923563
+0,975939
+0,931022
+Average: 0,943508
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+0,929147
+0,975385
+0,948114
+Average: 0,950882
+
+L1 Enhanced Regisered Image:
+0,942538
+0,983574
+0,957808
+Average: 0,961306
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+0,947739
+0,984744
+0,972815
+Average: 0,968433
+
+L1 Enhanced Regisered Image:
+0,947739
+0,984744
+0,972815
+Average: 0,968433
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+0,942538
+0,983574
+0,957808
+Average: 0,961306
+
+L1 Enhanced Regisered Image:
+0,942538
+0,983574
+0,957808
+Average: 0,961306
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+0,942538
+0,983574
+0,957808
+Average: 0,961306
+
+L1 Enhanced Regisered Image:
+0,942538
+0,983574
+0,957808
+Average: 0,961306
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+0,942538
+0,983574
+0,957808
+Average: 0,961306
+
+L1 Enhanced Regisered Image:
+0,942538
+0,983574
+0,957808
+Average: 0,961306
+
+
+L1 Reference Image:
+0,969562
+0,980033
+0,978350
+Average: 0,975982
+
+
+IMAGE #4:
+------------------------------------------------------------
+L0 Raw Image:
+0,744981
+0,840581
+0,912589
+Average: 0,832717
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+0,793318
+0,849392
+0,905459
+Average: 0,849389
+
+L0 Enhanced Regisered Image:
+0,929340
+0,952699
+0,970565
+Average: 0,950868
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+0,816744
+0,866626
+0,944289
+Average: 0,875886
+
+L0 Enhanced Regisered Image:
+0,923961
+0,949406
+0,974877
+Average: 0,949415
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+0,850017
+0,900118
+0,923299
+Average: 0,891145
+
+L0 Enhanced Regisered Image:
+0,923961
+0,949406
+0,974877
+Average: 0,949415
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+0,849939
+0,900412
+0,923727
+Average: 0,891359
+
+L0 Enhanced Regisered Image:
+0,923651
+0,949366
+0,974619
+Average: 0,949212
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+0,862647
+0,907022
+0,953139
+Average: 0,907603
+
+L0 Enhanced Regisered Image:
+0,923961
+0,949406
+0,974877
+Average: 0,949415
+
+
+L1 Raw Image:
+0,809735
+0,871741
+0,963731
+Average: 0,881736
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+0,825007
+0,881209
+0,951168
+Average: 0,885795
+
+L1 Enhanced Regisered Image:
+0,898958
+0,930930
+0,939147
+Average: 0,923011
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+0,830899
+0,885669
+0,953426
+Average: 0,889998
+
+L1 Enhanced Regisered Image:
+0,920506
+0,946173
+0,968821
+Average: 0,945167
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+0,851557
+0,898301
+0,950578
+Average: 0,900146
+
+L1 Enhanced Regisered Image:
+0,920604
+0,946332
+0,972931
+Average: 0,946623
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+0,832360
+0,886667
+0,955223
+Average: 0,891417
+
+L1 Enhanced Regisered Image:
+0,920362
+0,946350
+0,972665
+Average: 0,946459
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+0,851596
+0,898337
+0,950696
+Average: 0,900210
+
+L1 Enhanced Regisered Image:
+0,920362
+0,946350
+0,972665
+Average: 0,946459
+
+
+L1 Reference Image:
+0,918309
+0,926376
+0,981452
+Average: 0,942046
+
+
+IMAGE #5:
+------------------------------------------------------------
+L0 Raw Image:
+0,886146
+0,932453
+0,899581
+Average: 0,906060
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+0,897906
+0,941419
+0,894808
+Average: 0,911378
+
+L0 Enhanced Regisered Image:
+0,918557
+0,945522
+0,934324
+Average: 0,932801
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+0,862478
+0,898777
+0,917800
+Average: 0,893018
+
+L0 Enhanced Regisered Image:
+0,927398
+0,952048
+0,939406
+Average: 0,939617
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+0,879731
+0,908828
+0,930056
+Average: 0,906205
+
+L0 Enhanced Regisered Image:
+0,928128
+0,952574
+0,939553
+Average: 0,940085
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+0,904841
+0,931109
+0,905701
+Average: 0,913884
+
+L0 Enhanced Regisered Image:
+0,928149
+0,952587
+0,939564
+Average: 0,940100
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+0,875747
+0,905353
+0,926773
+Average: 0,902625
+
+L0 Enhanced Regisered Image:
+0,927199
+0,951841
+0,939331
+Average: 0,939457
+
+
+L1 Raw Image:
+0,929548
+0,955227
+0,944670
+Average: 0,943148
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+0,912914
+0,942192
+0,936079
+Average: 0,930395
+
+L1 Enhanced Regisered Image:
+0,936659
+0,960153
+0,949643
+Average: 0,948818
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+0,924503
+0,952067
+0,946163
+Average: 0,940911
+
+L1 Enhanced Regisered Image:
+0,936906
+0,960315
+0,949450
+Average: 0,948890
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+0,922965
+0,950904
+0,945145
+Average: 0,939671
+
+L1 Enhanced Regisered Image:
+0,936926
+0,960255
+0,948975
+Average: 0,948718
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+0,922392
+0,950419
+0,944610
+Average: 0,939140
+
+L1 Enhanced Regisered Image:
+0,936558
+0,959925
+0,948488
+Average: 0,948324
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+0,929204
+0,955906
+0,950055
+Average: 0,945055
+
+L1 Enhanced Regisered Image:
+0,936582
+0,959945
+0,948498
+Average: 0,948342
+
+
+L1 Reference Image:
+0,968972
+0,974950
+0,778663
+Average: 0,907528
+
+
+IMAGE #6:
+------------------------------------------------------------
+L0 Raw Image:
+0,935443
+0,971459
+0,950693
+Average: 0,952532
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+0,916462
+0,959267
+0,905766
+Average: 0,927165
+
+L0 Enhanced Regisered Image:
+0,946904
+0,978523
+0,959924
+Average: 0,961784
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+0,925895
+0,966456
+0,921702
+Average: 0,938018
+
+L0 Enhanced Regisered Image:
+0,942419
+0,976917
+0,969738
+Average: 0,963025
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+0,931649
+0,969752
+0,865879
+Average: 0,922427
+
+L0 Enhanced Regisered Image:
+0,942419
+0,976917
+0,969738
+Average: 0,963025
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+0,938485
+0,974981
+0,945547
+Average: 0,953005
+
+L0 Enhanced Regisered Image:
+0,942419
+0,976917
+0,969738
+Average: 0,963025
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+0,918970
+0,962502
+0,890970
+Average: 0,924147
+
+L0 Enhanced Regisered Image:
+0,942419
+0,976917
+0,969738
+Average: 0,963025
+
+
+L1 Raw Image:
+0,954459
+0,981375
+0,966973
+Average: 0,967602
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+0,916817
+0,959866
+0,908030
+Average: 0,928238
+
+L1 Enhanced Regisered Image:
+0,941072
+0,976045
+0,968673
+Average: 0,961930
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+0,919783
+0,963902
+0,918766
+Average: 0,934151
+
+L1 Enhanced Regisered Image:
+0,941072
+0,976045
+0,968673
+Average: 0,961930
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+0,919874
+0,963990
+0,919145
+Average: 0,934336
+
+L1 Enhanced Regisered Image:
+0,941072
+0,976045
+0,968673
+Average: 0,961930
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+0,919874
+0,963990
+0,919145
+Average: 0,934336
+
+L1 Enhanced Regisered Image:
+0,941072
+0,976045
+0,968673
+Average: 0,961930
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+0,920230
+0,964126
+0,919561
+Average: 0,934639
+
+L1 Enhanced Regisered Image:
+0,941072
+0,976045
+0,968673
+Average: 0,961930
+
+
+L1 Reference Image:
+0,950161
+0,961892
+0,941786
+Average: 0,951280
+
+
+IMAGE #7:
+------------------------------------------------------------
+L0 Raw Image:
+0,848145
+0,913761
+0,937234
+Average: 0,899713
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+0,855396
+0,916319
+0,921911
+Average: 0,897875
+
+L0 Enhanced Regisered Image:
+0,835975
+0,909656
+0,949475
+Average: 0,898369
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+0,855854
+0,916816
+0,920864
+Average: 0,897845
+
+L0 Enhanced Regisered Image:
+0,819376
+0,891899
+0,947988
+Average: 0,886421
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+0,856659
+0,922680
+0,952090
+Average: 0,910477
+
+L0 Enhanced Regisered Image:
+0,820650
+0,893688
+0,947028
+Average: 0,887122
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+0,886318
+0,933192
+0,966098
+Average: 0,928536
+
+L0 Enhanced Regisered Image:
+0,813315
+0,889601
+0,963001
+Average: 0,888639
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+0,871465
+0,928333
+0,962397
+Average: 0,920732
+
+L0 Enhanced Regisered Image:
+0,814446
+0,890434
+0,963152
+Average: 0,889344
+
+
+L1 Raw Image:
+0,878470
+0,928511
+0,970327
+Average: 0,925769
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+0,872441
+0,924841
+0,968683
+Average: 0,921988
+
+L1 Enhanced Regisered Image:
+0,833398
+0,906068
+0,951943
+Average: 0,897136
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+0,869800
+0,923234
+0,966629
+Average: 0,919888
+
+L1 Enhanced Regisered Image:
+0,833175
+0,906476
+0,951640
+Average: 0,897097
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+0,872057
+0,925748
+0,970100
+Average: 0,922635
+
+L1 Enhanced Regisered Image:
+0,833242
+0,906605
+0,952049
+Average: 0,897298
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+0,873673
+0,926220
+0,968703
+Average: 0,922865
+
+L1 Enhanced Regisered Image:
+0,834571
+0,907100
+0,958744
+Average: 0,900138
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+0,872848
+0,925745
+0,969171
+Average: 0,922588
+
+L1 Enhanced Regisered Image:
+0,837185
+0,908461
+0,955010
+Average: 0,900219
+
+
+L1 Reference Image:
+0,943047
+0,969561
+0,920810
+Average: 0,944473
+
+
+IMAGE #8:
+------------------------------------------------------------
+L0 Raw Image:
+0,901028
+0,947730
+0,953168
+Average: 0,933975
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+0,839970
+0,913412
+0,922650
+Average: 0,892010
+
+L0 Enhanced Regisered Image:
+0,951487
+0,973706
+0,981678
+Average: 0,968957
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+0,837214
+0,915179
+0,922452
+Average: 0,891615
+
+L0 Enhanced Regisered Image:
+0,951487
+0,973706
+0,981678
+Average: 0,968957
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+0,796222
+0,873036
+0,911140
+Average: 0,860133
+
+L0 Enhanced Regisered Image:
+0,951487
+0,973706
+0,981678
+Average: 0,968957
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+0,816601
+0,881047
+0,951723
+Average: 0,883124
+
+L0 Enhanced Regisered Image:
+0,951487
+0,973706
+0,981678
+Average: 0,968957
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+0,826510
+0,889149
+0,919055
+Average: 0,878238
+
+L0 Enhanced Regisered Image:
+0,951487
+0,973706
+0,981678
+Average: 0,968957
+
+
+L1 Raw Image:
+0,930270
+0,961816
+0,977937
+Average: 0,956675
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+0,849016
+0,912460
+0,956600
+Average: 0,906025
+
+L1 Enhanced Regisered Image:
+0,950572
+0,972864
+0,981501
+Average: 0,968312
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+0,837767
+0,904006
+0,950407
+Average: 0,897393
+
+L1 Enhanced Regisered Image:
+0,950572
+0,972864
+0,981501
+Average: 0,968312
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+0,852231
+0,914635
+0,958637
+Average: 0,908501
+
+L1 Enhanced Regisered Image:
+0,950572
+0,972864
+0,981501
+Average: 0,968312
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+0,848683
+0,913734
+0,958821
+Average: 0,907079
+
+L1 Enhanced Regisered Image:
+0,950572
+0,972864
+0,981501
+Average: 0,968312
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+0,903710
+0,945079
+0,975009
+Average: 0,941266
+
+L1 Enhanced Regisered Image:
+0,950572
+0,972864
+0,981501
+Average: 0,968312
+
+
+L1 Reference Image:
+0,914181
+0,946620
+0,869269
+Average: 0,910023
+
+
+IMAGE #9:
+------------------------------------------------------------
+L0 Raw Image:
+0,954637
+0,978742
+0,963040
+Average: 0,965473
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+0,922663
+0,945827
+0,926302
+Average: 0,931597
+
+L0 Enhanced Regisered Image:
+0,976919
+0,991675
+0,986638
+Average: 0,985077
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+0,919370
+0,943942
+0,925711
+Average: 0,929674
+
+L0 Enhanced Regisered Image:
+0,977910
+0,992002
+0,988074
+Average: 0,985996
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+0,917996
+0,938964
+0,932479
+Average: 0,929813
+
+L0 Enhanced Regisered Image:
+0,977910
+0,992002
+0,988074
+Average: 0,985996
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+0,929734
+0,950810
+0,928576
+Average: 0,936373
+
+L0 Enhanced Regisered Image:
+0,980286
+0,992869
+0,988148
+Average: 0,987101
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+0,929173
+0,943555
+0,938049
+Average: 0,936926
+
+L0 Enhanced Regisered Image:
+0,980286
+0,992869
+0,988148
+Average: 0,987101
+
+
+L1 Raw Image:
+0,974666
+0,989325
+0,982700
+Average: 0,982230
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+0,955152
+0,980746
+0,975508
+Average: 0,970468
+
+L1 Enhanced Regisered Image:
+0,976085
+0,990503
+0,983942
+Average: 0,983510
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+0,954962
+0,980790
+0,975703
+Average: 0,970485
+
+L1 Enhanced Regisered Image:
+0,978319
+0,991222
+0,986150
+Average: 0,985230
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+0,970275
+0,986930
+0,983671
+Average: 0,980292
+
+L1 Enhanced Regisered Image:
+0,978319
+0,991222
+0,986150
+Average: 0,985230
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+0,964869
+0,985054
+0,981127
+Average: 0,977017
+
+L1 Enhanced Regisered Image:
+0,978319
+0,991222
+0,986150
+Average: 0,985230
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+0,964869
+0,985054
+0,981127
+Average: 0,977017
+
+L1 Enhanced Regisered Image:
+0,978319
+0,991222
+0,986150
+Average: 0,985230
+
+
+L1 Reference Image:
+0,944655
+0,945670
+0,887346
+Average: 0,925891
+
+
+IMAGE #10:
+------------------------------------------------------------
+L0 Raw Image:
+0,914794
+0,963677
+0,949778
+Average: 0,942750
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+0,919157
+0,964340
+0,955209
+Average: 0,946235
+
+L0 Enhanced Regisered Image:
+0,937065
+0,975040
+0,969557
+Average: 0,960554
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+0,933437
+0,973510
+0,958440
+Average: 0,955129
+
+L0 Enhanced Regisered Image:
+0,937065
+0,975040
+0,969557
+Average: 0,960554
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+0,935538
+0,973642
+0,956081
+Average: 0,955087
+
+L0 Enhanced Regisered Image:
+0,933437
+0,973510
+0,958440
+Average: 0,955129
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+0,935538
+0,973642
+0,956081
+Average: 0,955087
+
+L0 Enhanced Regisered Image:
+0,937065
+0,975040
+0,969557
+Average: 0,960554
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+0,933437
+0,973510
+0,958440
+Average: 0,955129
+
+L0 Enhanced Regisered Image:
+0,937065
+0,975040
+0,969557
+Average: 0,960554
+
+
+L1 Raw Image:
+0,918010
+0,965422
+0,955638
+Average: 0,946357
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+0,905943
+0,956561
+0,936126
+Average: 0,932877
+
+L1 Enhanced Regisered Image:
+0,938067
+0,974174
+0,946636
+Average: 0,952959
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+0,937782
+0,974222
+0,950710
+Average: 0,954238
+
+L1 Enhanced Regisered Image:
+0,938054
+0,974187
+0,943494
+Average: 0,951912
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+0,932841
+0,971747
+0,954740
+Average: 0,953109
+
+L1 Enhanced Regisered Image:
+0,938054
+0,974187
+0,943494
+Average: 0,951912
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+0,937782
+0,974222
+0,950710
+Average: 0,954238
+
+L1 Enhanced Regisered Image:
+0,938054
+0,974187
+0,943494
+Average: 0,951912
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+0,937782
+0,974222
+0,950710
+Average: 0,954238
+
+L1 Enhanced Regisered Image:
+0,934499
+0,973325
+0,968334
+Average: 0,958719
+
+
+L1 Reference Image:
+0,948165
+0,964245
+0,972904
+Average: 0,961771
