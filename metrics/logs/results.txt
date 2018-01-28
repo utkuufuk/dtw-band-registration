@@ -1,0 +1,1629 @@
+
+IMAGE #1:
+------------------------------------------------------------
+L0 Raw Image:
+Red: 0.959377
+Green: 0.990130
+Blue: 0.954646
+Average: 0.968051
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+Red: 0.965285
+Green: 0.993484
+Blue: 0.964572
+Average: 0.974447
+
+L0 Enhanced Regisered Image:
+Red: 0.970202
+Green: 0.995413
+Blue: 0.969680
+Average: 0.978432
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+Red: 0.965387
+Green: 0.993375
+Blue: 0.966468
+Average: 0.975077
+
+L0 Enhanced Regisered Image:
+Red: 0.970202
+Green: 0.995413
+Blue: 0.969680
+Average: 0.978432
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+Red: 0.965769
+Green: 0.993533
+Blue: 0.966317
+Average: 0.975207
+
+L0 Enhanced Regisered Image:
+Red: 0.971475
+Green: 0.995638
+Blue: 0.970278
+Average: 0.979130
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+Red: 0.965789
+Green: 0.993546
+Blue: 0.966325
+Average: 0.975220
+
+L0 Enhanced Regisered Image:
+Red: 0.971475
+Green: 0.995638
+Blue: 0.970278
+Average: 0.979130
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+Red: 0.967448
+Green: 0.994078
+Blue: 0.968233
+Average: 0.976586
+
+L0 Enhanced Regisered Image:
+Red: 0.971475
+Green: 0.995638
+Blue: 0.970278
+Average: 0.979130
+
+
+L1 Raw Image:
+Red: 0.966438
+Green: 0.994707
+Blue: 0.963675
+Average: 0.974940
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+Red: 0.968106
+Green: 0.994354
+Blue: 0.969141
+Average: 0.977201
+
+L1 Enhanced Regisered Image:
+Red: 0.970141
+Green: 0.995661
+Blue: 0.974948
+Average: 0.980250
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+Red: 0.966497
+Green: 0.993843
+Blue: 0.967805
+Average: 0.976048
+
+L1 Enhanced Regisered Image:
+Red: 0.971051
+Green: 0.995676
+Blue: 0.970668
+Average: 0.979131
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+Red: 0.967186
+Green: 0.994185
+Blue: 0.968468
+Average: 0.976613
+
+L1 Enhanced Regisered Image:
+Red: 0.971051
+Green: 0.995676
+Blue: 0.970668
+Average: 0.979131
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+Red: 0.968486
+Green: 0.994865
+Blue: 0.969783
+Average: 0.977711
+
+L1 Enhanced Regisered Image:
+Red: 0.972298
+Green: 0.995894
+Blue: 0.971271
+Average: 0.979821
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+Red: 0.969873
+Green: 0.995171
+Blue: 0.970223
+Average: 0.978422
+
+L1 Enhanced Regisered Image:
+Red: 0.972298
+Green: 0.995894
+Blue: 0.971271
+Average: 0.979821
+
+
+L1 Reference Image:
+Red: 0.980995
+Green: 0.987894
+Blue: 0.977667
+Average: 0.982185
+
+
+IMAGE #2:
+------------------------------------------------------------
+L0 Raw Image:
+Red: 0.943405
+Green: 0.982122
+Blue: 0.932329
+Average: 0.952619
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+Red: 0.885128
+Green: 0.955475
+Blue: 0.935877
+Average: 0.925493
+
+L0 Enhanced Regisered Image:
+Red: 0.962047
+Green: 0.992488
+Blue: 0.954396
+Average: 0.969644
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+Red: 0.877200
+Green: 0.948201
+Blue: 0.934560
+Average: 0.919987
+
+L0 Enhanced Regisered Image:
+Red: 0.962631
+Green: 0.992542
+Blue: 0.946517
+Average: 0.967230
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+Red: 0.876629
+Green: 0.947970
+Blue: 0.934159
+Average: 0.919586
+
+L0 Enhanced Regisered Image:
+Red: 0.962631
+Green: 0.992542
+Blue: 0.946517
+Average: 0.967230
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+Red: 0.889493
+Green: 0.957678
+Blue: 0.933330
+Average: 0.926834
+
+L0 Enhanced Regisered Image:
+Red: 0.962631
+Green: 0.992542
+Blue: 0.946517
+Average: 0.967230
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+Red: 0.876900
+Green: 0.948078
+Blue: 0.934309
+Average: 0.919762
+
+L0 Enhanced Regisered Image:
+Red: 0.962631
+Green: 0.992542
+Blue: 0.946517
+Average: 0.967230
+
+
+L1 Raw Image:
+Red: 0.956715
+Green: 0.991964
+Blue: 0.951546
+Average: 0.966742
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+Red: 0.905243
+Green: 0.977397
+Blue: 0.931433
+Average: 0.938024
+
+L1 Enhanced Regisered Image:
+Red: 0.967813
+Green: 0.993670
+Blue: 0.951593
+Average: 0.971025
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+Red: 0.914380
+Green: 0.981686
+Blue: 0.942688
+Average: 0.946251
+
+L1 Enhanced Regisered Image:
+Red: 0.963594
+Green: 0.993165
+Blue: 0.947779
+Average: 0.968179
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+Red: 0.907901
+Green: 0.979058
+Blue: 0.938395
+Average: 0.941784
+
+L1 Enhanced Regisered Image:
+Red: 0.963594
+Green: 0.993165
+Blue: 0.947779
+Average: 0.968179
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+Red: 0.948980
+Green: 0.989928
+Blue: 0.952439
+Average: 0.963782
+
+L1 Enhanced Regisered Image:
+Red: 0.963594
+Green: 0.993165
+Blue: 0.947779
+Average: 0.968179
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+Red: 0.949624
+Green: 0.990268
+Blue: 0.953238
+Average: 0.964377
+
+L1 Enhanced Regisered Image:
+Red: 0.963594
+Green: 0.993165
+Blue: 0.947779
+Average: 0.968179
+
+
+L1 Reference Image:
+Red: 0.959105
+Green: 0.970784
+Blue: 0.884468
+Average: 0.938119
+
+
+IMAGE #3:
+------------------------------------------------------------
+L0 Raw Image:
+Red: 0.917780
+Green: 0.972278
+Blue: 0.923300
+Average: 0.937786
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+Red: 0.941162
+Green: 0.978304
+Blue: 0.954840
+Average: 0.958102
+
+L0 Enhanced Regisered Image:
+Red: 0.947305
+Green: 0.984700
+Blue: 0.972009
+Average: 0.968005
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+Red: 0.957282
+Green: 0.986859
+Blue: 0.960864
+Average: 0.968335
+
+L0 Enhanced Regisered Image:
+Red: 0.947305
+Green: 0.984700
+Blue: 0.972009
+Average: 0.968005
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+Red: 0.948750
+Green: 0.984668
+Blue: 0.949867
+Average: 0.961095
+
+L0 Enhanced Regisered Image:
+Red: 0.942195
+Green: 0.983554
+Blue: 0.956866
+Average: 0.960872
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+Red: 0.949461
+Green: 0.984902
+Blue: 0.946960
+Average: 0.960441
+
+L0 Enhanced Regisered Image:
+Red: 0.942195
+Green: 0.983554
+Blue: 0.956866
+Average: 0.960872
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+Red: 0.949461
+Green: 0.984902
+Blue: 0.946960
+Average: 0.960441
+
+L0 Enhanced Regisered Image:
+Red: 0.942195
+Green: 0.983554
+Blue: 0.956866
+Average: 0.960872
+
+
+L1 Raw Image:
+Red: 0.923563
+Green: 0.975939
+Blue: 0.931022
+Average: 0.943508
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+Red: 0.929147
+Green: 0.975385
+Blue: 0.948114
+Average: 0.950882
+
+L1 Enhanced Regisered Image:
+Red: 0.942538
+Green: 0.983574
+Blue: 0.957808
+Average: 0.961306
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+Red: 0.947739
+Green: 0.984744
+Blue: 0.972815
+Average: 0.968433
+
+L1 Enhanced Regisered Image:
+Red: 0.947739
+Green: 0.984744
+Blue: 0.972815
+Average: 0.968433
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+Red: 0.942538
+Green: 0.983574
+Blue: 0.957808
+Average: 0.961306
+
+L1 Enhanced Regisered Image:
+Red: 0.942538
+Green: 0.983574
+Blue: 0.957808
+Average: 0.961306
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+Red: 0.942538
+Green: 0.983574
+Blue: 0.957808
+Average: 0.961306
+
+L1 Enhanced Regisered Image:
+Red: 0.942538
+Green: 0.983574
+Blue: 0.957808
+Average: 0.961306
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+Red: 0.942538
+Green: 0.983574
+Blue: 0.957808
+Average: 0.961306
+
+L1 Enhanced Regisered Image:
+Red: 0.942538
+Green: 0.983574
+Blue: 0.957808
+Average: 0.961306
+
+
+L1 Reference Image:
+Red: 0.969562
+Green: 0.980033
+Blue: 0.978350
+Average: 0.975982
+
+
+IMAGE #4:
+------------------------------------------------------------
+L0 Raw Image:
+Red: 0.744981
+Green: 0.840581
+Blue: 0.912589
+Average: 0.832717
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+Red: 0.793318
+Green: 0.849392
+Blue: 0.905459
+Average: 0.849389
+
+L0 Enhanced Regisered Image:
+Red: 0.929340
+Green: 0.952699
+Blue: 0.970565
+Average: 0.950868
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+Red: 0.816744
+Green: 0.866626
+Blue: 0.944289
+Average: 0.875886
+
+L0 Enhanced Regisered Image:
+Red: 0.923961
+Green: 0.949406
+Blue: 0.974877
+Average: 0.949415
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+Red: 0.850017
+Green: 0.900118
+Blue: 0.923299
+Average: 0.891145
+
+L0 Enhanced Regisered Image:
+Red: 0.923961
+Green: 0.949406
+Blue: 0.974877
+Average: 0.949415
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+Red: 0.849939
+Green: 0.900412
+Blue: 0.923727
+Average: 0.891359
+
+L0 Enhanced Regisered Image:
+Red: 0.923651
+Green: 0.949366
+Blue: 0.974619
+Average: 0.949212
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+Red: 0.862647
+Green: 0.907022
+Blue: 0.953139
+Average: 0.907603
+
+L0 Enhanced Regisered Image:
+Red: 0.923961
+Green: 0.949406
+Blue: 0.974877
+Average: 0.949415
+
+
+L1 Raw Image:
+Red: 0.809735
+Green: 0.871741
+Blue: 0.963731
+Average: 0.881736
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+Red: 0.825007
+Green: 0.881209
+Blue: 0.951168
+Average: 0.885795
+
+L1 Enhanced Regisered Image:
+Red: 0.898958
+Green: 0.930930
+Blue: 0.939147
+Average: 0.923011
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+Red: 0.830899
+Green: 0.885669
+Blue: 0.953426
+Average: 0.889998
+
+L1 Enhanced Regisered Image:
+Red: 0.920506
+Green: 0.946173
+Blue: 0.968821
+Average: 0.945167
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+Red: 0.851557
+Green: 0.898301
+Blue: 0.950578
+Average: 0.900146
+
+L1 Enhanced Regisered Image:
+Red: 0.920604
+Green: 0.946332
+Blue: 0.972931
+Average: 0.946623
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+Red: 0.832360
+Green: 0.886667
+Blue: 0.955223
+Average: 0.891417
+
+L1 Enhanced Regisered Image:
+Red: 0.920362
+Green: 0.946350
+Blue: 0.972665
+Average: 0.946459
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+Red: 0.851596
+Green: 0.898337
+Blue: 0.950696
+Average: 0.900210
+
+L1 Enhanced Regisered Image:
+Red: 0.920362
+Green: 0.946350
+Blue: 0.972665
+Average: 0.946459
+
+
+L1 Reference Image:
+Red: 0.918309
+Green: 0.926376
+Blue: 0.981452
+Average: 0.942046
+
+
+IMAGE #5:
+------------------------------------------------------------
+L0 Raw Image:
+Red: 0.886146
+Green: 0.932453
+Blue: 0.899581
+Average: 0.906060
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+Red: 0.897906
+Green: 0.941419
+Blue: 0.894808
+Average: 0.911378
+
+L0 Enhanced Regisered Image:
+Red: 0.918557
+Green: 0.945522
+Blue: 0.934324
+Average: 0.932801
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+Red: 0.862478
+Green: 0.898777
+Blue: 0.917800
+Average: 0.893018
+
+L0 Enhanced Regisered Image:
+Red: 0.927398
+Green: 0.952048
+Blue: 0.939406
+Average: 0.939617
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+Red: 0.879731
+Green: 0.908828
+Blue: 0.930056
+Average: 0.906205
+
+L0 Enhanced Regisered Image:
+Red: 0.928128
+Green: 0.952574
+Blue: 0.939553
+Average: 0.940085
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+Red: 0.904841
+Green: 0.931109
+Blue: 0.905701
+Average: 0.913884
+
+L0 Enhanced Regisered Image:
+Red: 0.928149
+Green: 0.952587
+Blue: 0.939564
+Average: 0.940100
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+Red: 0.875747
+Green: 0.905353
+Blue: 0.926773
+Average: 0.902625
+
+L0 Enhanced Regisered Image:
+Red: 0.927199
+Green: 0.951841
+Blue: 0.939331
+Average: 0.939457
+
+
+L1 Raw Image:
+Red: 0.929548
+Green: 0.955227
+Blue: 0.944670
+Average: 0.943148
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+Red: 0.912914
+Green: 0.942192
+Blue: 0.936079
+Average: 0.930395
+
+L1 Enhanced Regisered Image:
+Red: 0.936659
+Green: 0.960153
+Blue: 0.949643
+Average: 0.948818
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+Red: 0.924503
+Green: 0.952067
+Blue: 0.946163
+Average: 0.940911
+
+L1 Enhanced Regisered Image:
+Red: 0.936906
+Green: 0.960315
+Blue: 0.949450
+Average: 0.948890
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+Red: 0.922965
+Green: 0.950904
+Blue: 0.945145
+Average: 0.939671
+
+L1 Enhanced Regisered Image:
+Red: 0.936926
+Green: 0.960255
+Blue: 0.948975
+Average: 0.948718
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+Red: 0.922392
+Green: 0.950419
+Blue: 0.944610
+Average: 0.939140
+
+L1 Enhanced Regisered Image:
+Red: 0.936558
+Green: 0.959925
+Blue: 0.948488
+Average: 0.948324
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+Red: 0.929204
+Green: 0.955906
+Blue: 0.950055
+Average: 0.945055
+
+L1 Enhanced Regisered Image:
+Red: 0.936582
+Green: 0.959945
+Blue: 0.948498
+Average: 0.948342
+
+
+L1 Reference Image:
+Red: 0.968972
+Green: 0.974950
+Blue: 0.778663
+Average: 0.907528
+
+
+IMAGE #6:
+------------------------------------------------------------
+L0 Raw Image:
+Red: 0.935443
+Green: 0.971459
+Blue: 0.950693
+Average: 0.952532
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+Red: 0.916462
+Green: 0.959267
+Blue: 0.905766
+Average: 0.927165
+
+L0 Enhanced Regisered Image:
+Red: 0.946904
+Green: 0.978523
+Blue: 0.959924
+Average: 0.961784
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+Red: 0.925895
+Green: 0.966456
+Blue: 0.921702
+Average: 0.938018
+
+L0 Enhanced Regisered Image:
+Red: 0.942419
+Green: 0.976917
+Blue: 0.969738
+Average: 0.963025
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+Red: 0.931649
+Green: 0.969752
+Blue: 0.865879
+Average: 0.922427
+
+L0 Enhanced Regisered Image:
+Red: 0.942419
+Green: 0.976917
+Blue: 0.969738
+Average: 0.963025
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+Red: 0.938485
+Green: 0.974981
+Blue: 0.945547
+Average: 0.953005
+
+L0 Enhanced Regisered Image:
+Red: 0.942419
+Green: 0.976917
+Blue: 0.969738
+Average: 0.963025
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+Red: 0.918970
+Green: 0.962502
+Blue: 0.890970
+Average: 0.924147
+
+L0 Enhanced Regisered Image:
+Red: 0.942419
+Green: 0.976917
+Blue: 0.969738
+Average: 0.963025
+
+
+L1 Raw Image:
+Red: 0.954459
+Green: 0.981375
+Blue: 0.966973
+Average: 0.967602
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+Red: 0.916817
+Green: 0.959866
+Blue: 0.908030
+Average: 0.928238
+
+L1 Enhanced Regisered Image:
+Red: 0.941072
+Green: 0.976045
+Blue: 0.968673
+Average: 0.961930
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+Red: 0.919783
+Green: 0.963902
+Blue: 0.918766
+Average: 0.934151
+
+L1 Enhanced Regisered Image:
+Red: 0.941072
+Green: 0.976045
+Blue: 0.968673
+Average: 0.961930
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+Red: 0.919874
+Green: 0.963990
+Blue: 0.919145
+Average: 0.934336
+
+L1 Enhanced Regisered Image:
+Red: 0.941072
+Green: 0.976045
+Blue: 0.968673
+Average: 0.961930
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+Red: 0.919874
+Green: 0.963990
+Blue: 0.919145
+Average: 0.934336
+
+L1 Enhanced Regisered Image:
+Red: 0.941072
+Green: 0.976045
+Blue: 0.968673
+Average: 0.961930
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+Red: 0.920230
+Green: 0.964126
+Blue: 0.919561
+Average: 0.934639
+
+L1 Enhanced Regisered Image:
+Red: 0.941072
+Green: 0.976045
+Blue: 0.968673
+Average: 0.961930
+
+
+L1 Reference Image:
+Red: 0.950161
+Green: 0.961892
+Blue: 0.941786
+Average: 0.951280
+
+
+IMAGE #7:
+------------------------------------------------------------
+L0 Raw Image:
+Red: 0.848145
+Green: 0.913761
+Blue: 0.937234
+Average: 0.899713
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+Red: 0.855396
+Green: 0.916319
+Blue: 0.921911
+Average: 0.897875
+
+L0 Enhanced Regisered Image:
+Red: 0.835975
+Green: 0.909656
+Blue: 0.949475
+Average: 0.898369
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+Red: 0.855854
+Green: 0.916816
+Blue: 0.920864
+Average: 0.897845
+
+L0 Enhanced Regisered Image:
+Red: 0.819376
+Green: 0.891899
+Blue: 0.947988
+Average: 0.886421
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+Red: 0.856659
+Green: 0.922680
+Blue: 0.952090
+Average: 0.910477
+
+L0 Enhanced Regisered Image:
+Red: 0.820650
+Green: 0.893688
+Blue: 0.947028
+Average: 0.887122
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+Red: 0.886318
+Green: 0.933192
+Blue: 0.966098
+Average: 0.928536
+
+L0 Enhanced Regisered Image:
+Red: 0.813315
+Green: 0.889601
+Blue: 0.963001
+Average: 0.888639
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+Red: 0.871465
+Green: 0.928333
+Blue: 0.962397
+Average: 0.920732
+
+L0 Enhanced Regisered Image:
+Red: 0.814446
+Green: 0.890434
+Blue: 0.963152
+Average: 0.889344
+
+
+L1 Raw Image:
+Red: 0.878470
+Green: 0.928511
+Blue: 0.970327
+Average: 0.925769
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+Red: 0.872441
+Green: 0.924841
+Blue: 0.968683
+Average: 0.921988
+
+L1 Enhanced Regisered Image:
+Red: 0.833398
+Green: 0.906068
+Blue: 0.951943
+Average: 0.897136
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+Red: 0.869800
+Green: 0.923234
+Blue: 0.966629
+Average: 0.919888
+
+L1 Enhanced Regisered Image:
+Red: 0.833175
+Green: 0.906476
+Blue: 0.951640
+Average: 0.897097
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+Red: 0.872057
+Green: 0.925748
+Blue: 0.970100
+Average: 0.922635
+
+L1 Enhanced Regisered Image:
+Red: 0.833242
+Green: 0.906605
+Blue: 0.952049
+Average: 0.897298
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+Red: 0.873673
+Green: 0.926220
+Blue: 0.968703
+Average: 0.922865
+
+L1 Enhanced Regisered Image:
+Red: 0.834571
+Green: 0.907100
+Blue: 0.958744
+Average: 0.900138
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+Red: 0.872848
+Green: 0.925745
+Blue: 0.969171
+Average: 0.922588
+
+L1 Enhanced Regisered Image:
+Red: 0.837185
+Green: 0.908461
+Blue: 0.955010
+Average: 0.900219
+
+
+L1 Reference Image:
+Red: 0.943047
+Green: 0.969561
+Blue: 0.920810
+Average: 0.944473
+
+
+IMAGE #8:
+------------------------------------------------------------
+L0 Raw Image:
+Red: 0.901028
+Green: 0.947730
+Blue: 0.953168
+Average: 0.933975
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+Red: 0.839970
+Green: 0.913412
+Blue: 0.922650
+Average: 0.892010
+
+L0 Enhanced Regisered Image:
+Red: 0.951487
+Green: 0.973706
+Blue: 0.981678
+Average: 0.968957
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+Red: 0.837214
+Green: 0.915179
+Blue: 0.922452
+Average: 0.891615
+
+L0 Enhanced Regisered Image:
+Red: 0.951487
+Green: 0.973706
+Blue: 0.981678
+Average: 0.968957
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+Red: 0.796222
+Green: 0.873036
+Blue: 0.911140
+Average: 0.860133
+
+L0 Enhanced Regisered Image:
+Red: 0.951487
+Green: 0.973706
+Blue: 0.981678
+Average: 0.968957
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+Red: 0.816601
+Green: 0.881047
+Blue: 0.951723
+Average: 0.883124
+
+L0 Enhanced Regisered Image:
+Red: 0.951487
+Green: 0.973706
+Blue: 0.981678
+Average: 0.968957
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+Red: 0.826510
+Green: 0.889149
+Blue: 0.919055
+Average: 0.878238
+
+L0 Enhanced Regisered Image:
+Red: 0.951487
+Green: 0.973706
+Blue: 0.981678
+Average: 0.968957
+
+
+L1 Raw Image:
+Red: 0.930270
+Green: 0.961816
+Blue: 0.977937
+Average: 0.956675
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+Red: 0.849016
+Green: 0.912460
+Blue: 0.956600
+Average: 0.906025
+
+L1 Enhanced Regisered Image:
+Red: 0.950572
+Green: 0.972864
+Blue: 0.981501
+Average: 0.968312
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+Red: 0.837767
+Green: 0.904006
+Blue: 0.950407
+Average: 0.897393
+
+L1 Enhanced Regisered Image:
+Red: 0.950572
+Green: 0.972864
+Blue: 0.981501
+Average: 0.968312
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+Red: 0.852231
+Green: 0.914635
+Blue: 0.958637
+Average: 0.908501
+
+L1 Enhanced Regisered Image:
+Red: 0.950572
+Green: 0.972864
+Blue: 0.981501
+Average: 0.968312
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+Red: 0.848683
+Green: 0.913734
+Blue: 0.958821
+Average: 0.907079
+
+L1 Enhanced Regisered Image:
+Red: 0.950572
+Green: 0.972864
+Blue: 0.981501
+Average: 0.968312
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+Red: 0.903710
+Green: 0.945079
+Blue: 0.975009
+Average: 0.941266
+
+L1 Enhanced Regisered Image:
+Red: 0.950572
+Green: 0.972864
+Blue: 0.981501
+Average: 0.968312
+
+
+L1 Reference Image:
+Red: 0.914181
+Green: 0.946620
+Blue: 0.869269
+Average: 0.910023
+
+
+IMAGE #9:
+------------------------------------------------------------
+L0 Raw Image:
+Red: 0.954637
+Green: 0.978742
+Blue: 0.963040
+Average: 0.965473
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+Red: 0.922663
+Green: 0.945827
+Blue: 0.926302
+Average: 0.931597
+
+L0 Enhanced Regisered Image:
+Red: 0.976919
+Green: 0.991675
+Blue: 0.986638
+Average: 0.985077
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+Red: 0.919370
+Green: 0.943942
+Blue: 0.925711
+Average: 0.929674
+
+L0 Enhanced Regisered Image:
+Red: 0.977910
+Green: 0.992002
+Blue: 0.988074
+Average: 0.985996
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+Red: 0.917996
+Green: 0.938964
+Blue: 0.932479
+Average: 0.929813
+
+L0 Enhanced Regisered Image:
+Red: 0.977910
+Green: 0.992002
+Blue: 0.988074
+Average: 0.985996
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+Red: 0.929734
+Green: 0.950810
+Blue: 0.928576
+Average: 0.936373
+
+L0 Enhanced Regisered Image:
+Red: 0.980286
+Green: 0.992869
+Blue: 0.988148
+Average: 0.987101
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+Red: 0.929173
+Green: 0.943555
+Blue: 0.938049
+Average: 0.936926
+
+L0 Enhanced Regisered Image:
+Red: 0.980286
+Green: 0.992869
+Blue: 0.988148
+Average: 0.987101
+
+
+L1 Raw Image:
+Red: 0.974666
+Green: 0.989325
+Blue: 0.982700
+Average: 0.982230
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+Red: 0.955152
+Green: 0.980746
+Blue: 0.975508
+Average: 0.970468
+
+L1 Enhanced Regisered Image:
+Red: 0.976085
+Green: 0.990503
+Blue: 0.983942
+Average: 0.983510
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+Red: 0.954962
+Green: 0.980790
+Blue: 0.975703
+Average: 0.970485
+
+L1 Enhanced Regisered Image:
+Red: 0.978319
+Green: 0.991222
+Blue: 0.986150
+Average: 0.985230
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+Red: 0.970275
+Green: 0.986930
+Blue: 0.983671
+Average: 0.980292
+
+L1 Enhanced Regisered Image:
+Red: 0.978319
+Green: 0.991222
+Blue: 0.986150
+Average: 0.985230
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+Red: 0.964869
+Green: 0.985054
+Blue: 0.981127
+Average: 0.977017
+
+L1 Enhanced Regisered Image:
+Red: 0.978319
+Green: 0.991222
+Blue: 0.986150
+Average: 0.985230
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+Red: 0.964869
+Green: 0.985054
+Blue: 0.981127
+Average: 0.977017
+
+L1 Enhanced Regisered Image:
+Red: 0.978319
+Green: 0.991222
+Blue: 0.986150
+Average: 0.985230
+
+
+L1 Reference Image:
+Red: 0.944655
+Green: 0.945670
+Blue: 0.887346
+Average: 0.925891
+
+
+IMAGE #10:
+------------------------------------------------------------
+L0 Raw Image:
+Red: 0.914794
+Green: 0.963677
+Blue: 0.949778
+Average: 0.942750
+
+Number of reference rows/cols: 1
+
+L0 Simply Regisered Image:
+Red: 0.919157
+Green: 0.964340
+Blue: 0.955209
+Average: 0.946235
+
+L0 Enhanced Regisered Image:
+Red: 0.937065
+Green: 0.975040
+Blue: 0.969557
+Average: 0.960554
+
+Number of reference rows/cols: 7
+
+L0 Simply Regisered Image:
+Red: 0.933437
+Green: 0.973510
+Blue: 0.958440
+Average: 0.955129
+
+L0 Enhanced Regisered Image:
+Red: 0.937065
+Green: 0.975040
+Blue: 0.969557
+Average: 0.960554
+
+Number of reference rows/cols: 13
+
+L0 Simply Regisered Image:
+Red: 0.935538
+Green: 0.973642
+Blue: 0.956081
+Average: 0.955087
+
+L0 Enhanced Regisered Image:
+Red: 0.933437
+Green: 0.973510
+Blue: 0.958440
+Average: 0.955129
+
+Number of reference rows/cols: 19
+
+L0 Simply Regisered Image:
+Red: 0.935538
+Green: 0.973642
+Blue: 0.956081
+Average: 0.955087
+
+L0 Enhanced Regisered Image:
+Red: 0.937065
+Green: 0.975040
+Blue: 0.969557
+Average: 0.960554
+
+Number of reference rows/cols: 25
+
+L0 Simply Regisered Image:
+Red: 0.933437
+Green: 0.973510
+Blue: 0.958440
+Average: 0.955129
+
+L0 Enhanced Regisered Image:
+Red: 0.937065
+Green: 0.975040
+Blue: 0.969557
+Average: 0.960554
+
+
+L1 Raw Image:
+Red: 0.918010
+Green: 0.965422
+Blue: 0.955638
+Average: 0.946357
+
+Number of reference rows/cols: 1
+
+L1 Simply Regisered Image:
+Red: 0.905943
+Green: 0.956561
+Blue: 0.936126
+Average: 0.932877
+
+L1 Enhanced Regisered Image:
+Red: 0.938067
+Green: 0.974174
+Blue: 0.946636
+Average: 0.952959
+
+Number of reference rows/cols: 7
+
+L1 Simply Regisered Image:
+Red: 0.937782
+Green: 0.974222
+Blue: 0.950710
+Average: 0.954238
+
+L1 Enhanced Regisered Image:
+Red: 0.938054
+Green: 0.974187
+Blue: 0.943494
+Average: 0.951912
+
+Number of reference rows/cols: 13
+
+L1 Simply Regisered Image:
+Red: 0.932841
+Green: 0.971747
+Blue: 0.954740
+Average: 0.953109
+
+L1 Enhanced Regisered Image:
+Red: 0.938054
+Green: 0.974187
+Blue: 0.943494
+Average: 0.951912
+
+Number of reference rows/cols: 19
+
+L1 Simply Regisered Image:
+Red: 0.937782
+Green: 0.974222
+Blue: 0.950710
+Average: 0.954238
+
+L1 Enhanced Regisered Image:
+Red: 0.938054
+Green: 0.974187
+Blue: 0.943494
+Average: 0.951912
+
+Number of reference rows/cols: 25
+
+L1 Simply Regisered Image:
+Red: 0.937782
+Green: 0.974222
+Blue: 0.950710
+Average: 0.954238
+
+L1 Enhanced Regisered Image:
+Red: 0.934499
+Green: 0.973325
+Blue: 0.968334
+Average: 0.958719
+
+
+L1 Reference Image:
+Red: 0.948165
+Green: 0.964245
+Blue: 0.972904
+Average: 0.961771
