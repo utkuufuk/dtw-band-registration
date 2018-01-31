@@ -4,9 +4,6 @@ format long
 % number of test images
 NUM_IMAGES = 10;
 
-% number of multispectral image bands
-NUM_MSI_BANDS = 3;
-
 NUM_LEVELS = 2;
 
 % image dimensions
@@ -54,7 +51,16 @@ for i = 1:NUM_IMAGES
 
     pan = imread(strcat('../images/', num2str(i), '/L1R/0/image.tif'));
     pansharpSift = imread(strcat('../images/', num2str(i), '/L1R/pansharp_hcs.tif'));
+    
+    % flip & crop in order to match the DTW output
+    pan = flip(pan, 1);
+    pan = flip(pan, 2);
+    pan = pan(1:8072, 61:8100, :);
+    pansharpSift = flip(pansharpSift, 1);
+    pansharpSift = flip(pansharpSift, 2);
+    pansharpSift = pansharpSift(1:8072, 61:8100, :);
+    
     [siftMetricAvg, siftMetricVec] = compute_spatial_metric(pansharpSift, pan);
-    fprintf('\nL%d Reference Image:\nRed: %f\nGreen: %f\nBlue: %f\nAverage: %f\n\n', ...
-            level, siftMetricVec(1), siftMetricVec(2), siftMetricVec(3), siftMetricAvg);
+    fprintf('\nL1R Reference Image:\nRed: %f\nGreen: %f\nBlue: %f\nAverage: %f\n\n', ...
+            siftMetricVec(1), siftMetricVec(2), siftMetricVec(3), siftMetricAvg);
 end
