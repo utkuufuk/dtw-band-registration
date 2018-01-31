@@ -38,7 +38,7 @@ for i = 1:NUM_IMAGES
         % pansharp DTW output
         dtwHcs = pansharp_hcs(panL1(ROW_MARGIN + 1:end - ROW_MARGIN, COL_MARGIN + 1:end - COL_MARGIN), ...
                               msiDtw(ROW_MARGIN + 1:end - ROW_MARGIN, COL_MARGIN + 1:end - COL_MARGIN, :));
-        
+
         % write output and its thumbnail
         imwrite(uint16(dtwHcs), strcat(dtwDir, 'dtw_hcs.tif'));
         imwrite(32 * imresize(uint16(dtwHcs), 0.2), strcat(dtwDir, 'dtw_hcs_thumbnail.tif'));
