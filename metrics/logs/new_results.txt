@@ -1,0 +1,448 @@
+IMAGE #1:
+------------------------------------------------------------
+
+Number of reference rows/cols: 5
+
+DTW Regisered Image:
+Red: 0.970957
+Green: 0.995654
+Blue: 0.970603
+
+Number of reference rows/cols: 15
+
+DTW Regisered Image:
+Red: 0.972216
+Green: 0.995874
+Blue: 0.971217
+
+Number of reference rows/cols: 25
+
+DTW Regisered Image:
+Red: 0.972216
+Green: 0.995874
+Blue: 0.971217
+
+Number of reference rows/cols: 35
+
+DTW Regisered Image:
+Red: 0.972216
+Green: 0.995874
+Blue: 0.971217
+
+Number of reference rows/cols: 45
+
+DTW Regisered Image:
+Red: 0.972216
+Green: 0.995874
+Blue: 0.971217
+
+
+L1R Reference Image:
+Red: 0.985689
+Green: 0.998103
+Blue: 0.982213
+
+
+IMAGE #2:
+------------------------------------------------------------
+
+Number of reference rows/cols: 5
+
+DTW Regisered Image:
+Red: 0.963319
+Green: 0.993041
+Blue: 0.947702
+
+Number of reference rows/cols: 15
+
+DTW Regisered Image:
+Red: 0.963319
+Green: 0.993041
+Blue: 0.947702
+
+Number of reference rows/cols: 25
+
+DTW Regisered Image:
+Red: 0.963319
+Green: 0.993041
+Blue: 0.947702
+
+Number of reference rows/cols: 35
+
+DTW Regisered Image:
+Red: 0.963319
+Green: 0.993041
+Blue: 0.947702
+
+Number of reference rows/cols: 45
+
+DTW Regisered Image:
+Red: 0.963319
+Green: 0.993041
+Blue: 0.947702
+
+
+L1R Reference Image:
+Red: 0.975257
+Green: 0.995533
+Blue: 0.943516
+
+
+IMAGE #3:
+------------------------------------------------------------
+
+Number of reference rows/cols: 5
+
+DTW Regisered Image:
+Red: 0.942399
+Green: 0.983530
+Blue: 0.957704
+
+Number of reference rows/cols: 15
+
+DTW Regisered Image:
+Red: 0.942399
+Green: 0.983530
+Blue: 0.957704
+
+Number of reference rows/cols: 25
+
+DTW Regisered Image:
+Red: 0.942399
+Green: 0.983530
+Blue: 0.957704
+
+Number of reference rows/cols: 35
+
+DTW Regisered Image:
+Red: 0.942399
+Green: 0.983530
+Blue: 0.957704
+
+Number of reference rows/cols: 45
+
+DTW Regisered Image:
+Red: 0.947634
+Green: 0.984708
+Blue: 0.972750
+
+
+L1R Reference Image:
+Red: 0.977581
+Green: 0.993131
+Blue: 0.982604
+
+
+IMAGE #4:
+------------------------------------------------------------
+
+Number of reference rows/cols: 5
+
+DTW Regisered Image:
+Red: 0.920753
+Green: 0.946390
+Blue: 0.969130
+
+Number of reference rows/cols: 15
+
+DTW Regisered Image:
+Red: 0.920598
+Green: 0.946565
+Blue: 0.972958
+
+Number of reference rows/cols: 25
+
+DTW Regisered Image:
+Red: 0.920598
+Green: 0.946565
+Blue: 0.972958
+
+Number of reference rows/cols: 35
+
+DTW Regisered Image:
+Red: 0.920598
+Green: 0.946565
+Blue: 0.972958
+
+Number of reference rows/cols: 45
+
+DTW Regisered Image:
+Red: 0.920598
+Green: 0.946565
+Blue: 0.972958
+
+
+L1R Reference Image:
+Red: 0.946895
+Green: 0.965288
+Blue: 0.986045
+
+
+IMAGE #5:
+------------------------------------------------------------
+
+Number of reference rows/cols: 5
+
+DTW Regisered Image:
+Red: 0.932032
+Green: 0.965417
+Blue: 0.986920
+
+Number of reference rows/cols: 15
+
+DTW Regisered Image:
+Red: 0.932032
+Green: 0.965417
+Blue: 0.986920
+
+Number of reference rows/cols: 25
+
+DTW Regisered Image:
+Red: 0.932032
+Green: 0.965417
+Blue: 0.986920
+
+Number of reference rows/cols: 35
+
+DTW Regisered Image:
+Red: 0.932032
+Green: 0.965417
+Blue: 0.986920
+
+Number of reference rows/cols: 45
+
+DTW Regisered Image:
+Red: 0.932032
+Green: 0.965417
+Blue: 0.986920
+
+
+L1R Reference Image:
+Red: 0.957718
+Green: 0.979974
+Blue: 0.983917
+
+
+IMAGE #6:
+------------------------------------------------------------
+
+Number of reference rows/cols: 5
+
+DTW Regisered Image:
+Red: 0.941061
+Green: 0.976050
+Blue: 0.968808
+
+Number of reference rows/cols: 15
+
+DTW Regisered Image:
+Red: 0.941061
+Green: 0.976050
+Blue: 0.968808
+
+Number of reference rows/cols: 25
+
+DTW Regisered Image:
+Red: 0.941061
+Green: 0.976050
+Blue: 0.968808
+
+Number of reference rows/cols: 35
+
+DTW Regisered Image:
+Red: 0.941061
+Green: 0.976050
+Blue: 0.968808
+
+Number of reference rows/cols: 45
+
+DTW Regisered Image:
+Red: 0.941061
+Green: 0.976050
+Blue: 0.968808
+
+
+L1R Reference Image:
+Red: 0.974074
+Green: 0.989876
+Blue: 0.982902
+
+
+IMAGE #7:
+------------------------------------------------------------
+
+Number of reference rows/cols: 5
+
+DTW Regisered Image:
+Red: 0.859442
+Green: 0.924806
+Blue: 0.952274
+
+Number of reference rows/cols: 15
+
+DTW Regisered Image:
+Red: 0.841966
+Green: 0.917439
+Blue: 0.953835
+
+Number of reference rows/cols: 25
+
+DTW Regisered Image:
+Red: 0.870127
+Green: 0.927367
+Blue: 0.966442
+
+Number of reference rows/cols: 35
+
+DTW Regisered Image:
+Red: 0.873578
+Green: 0.928369
+Blue: 0.944635
+
+Number of reference rows/cols: 45
+
+DTW Regisered Image:
+Red: 0.879639
+Green: 0.930248
+Blue: 0.943666
+
+
+L1R Reference Image:
+Red: 0.939594
+Green: 0.966329
+Blue: 0.982232
+
+
+IMAGE #8:
+------------------------------------------------------------
+
+Number of reference rows/cols: 5
+
+DTW Regisered Image:
+Red: 0.950552
+Green: 0.972856
+Blue: 0.981511
+
+Number of reference rows/cols: 15
+
+DTW Regisered Image:
+Red: 0.950552
+Green: 0.972856
+Blue: 0.981511
+
+Number of reference rows/cols: 25
+
+DTW Regisered Image:
+Red: 0.950552
+Green: 0.972856
+Blue: 0.981511
+
+Number of reference rows/cols: 35
+
+DTW Regisered Image:
+Red: 0.950552
+Green: 0.972856
+Blue: 0.981511
+
+Number of reference rows/cols: 45
+
+DTW Regisered Image:
+Red: 0.950552
+Green: 0.972856
+Blue: 0.981511
+
+
+L1R Reference Image:
+Red: 0.941349
+Green: 0.969794
+Blue: 0.968723
+
+
+IMAGE #9:
+------------------------------------------------------------
+
+Number of reference rows/cols: 5
+
+DTW Regisered Image:
+Red: 0.978180
+Green: 0.991155
+Blue: 0.986110
+
+Number of reference rows/cols: 15
+
+DTW Regisered Image:
+Red: 0.978180
+Green: 0.991155
+Blue: 0.986110
+
+Number of reference rows/cols: 25
+
+DTW Regisered Image:
+Red: 0.978180
+Green: 0.991155
+Blue: 0.986110
+
+Number of reference rows/cols: 35
+
+DTW Regisered Image:
+Red: 0.978180
+Green: 0.991155
+Blue: 0.986110
+
+Number of reference rows/cols: 45
+
+DTW Regisered Image:
+Red: 0.978180
+Green: 0.991155
+Blue: 0.986110
+
+
+L1R Reference Image:
+Red: 0.982141
+Green: 0.992866
+Blue: 0.987407
+
+
+IMAGE #10:
+------------------------------------------------------------
+
+Number of reference rows/cols: 5
+
+DTW Regisered Image:
+Red: 0.937870
+Green: 0.974122
+Blue: 0.943250
+
+Number of reference rows/cols: 15
+
+DTW Regisered Image:
+Red: 0.937870
+Green: 0.974122
+Blue: 0.943250
+
+Number of reference rows/cols: 25
+
+DTW Regisered Image:
+Red: 0.934280
+Green: 0.973249
+Blue: 0.968238
+
+Number of reference rows/cols: 35
+
+DTW Regisered Image:
+Red: 0.934280
+Green: 0.973249
+Blue: 0.968238
+
+Number of reference rows/cols: 45
+
+DTW Regisered Image:
+Red: 0.934280
+Green: 0.973249
+Blue: 0.968238
+
+
+L1R Reference Image:
+Red: 0.956834
+Green: 0.980234
+Blue: 0.977730
