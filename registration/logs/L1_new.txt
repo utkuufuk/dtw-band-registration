@@ -1,0 +1,749 @@
+Processing image #1:
+
+Reference Rows: 6560 6520 6590 6610 6530 6630 6540 6580 6600 6570 6510 6550 4310 4300 6620 6490 6500 4320 6650 6450 6640 6480 5780 6340 6380 6370 6470 5800 6400 6330 4290 6390 6030 6660 6320 6280 6670 5790 6410 6230 5830 6270 5720 5840 6350 
+Reference Cols: 1700 1670 3980 3650 1230 3630 1460 1450 3440 3940 3720 810 3680 3460 1120 1220 3930 1480 3320 1580 1270 3620 3360 2080 3610 3370 3890 3640 3950 2210 1680 4100 3880 4180 4090 3760 3580 1550 3560 3150 1520 3380 1930 2330 1530 
+
+Taking the first 5 reference rows & cols:
+
+Band #1:
+Min distance (2.930239e+05) was found -1 rows ahead.
+Min distance (5.284634e+05) was found 2 cols ahead.
+
+Band #2:
+Min distance (3.084812e+05) was found 0 rows ahead.
+Min distance (3.488826e+05) was found 3 cols ahead.
+
+Band #3:
+Min distance (5.717226e+05) was found 1 rows ahead.
+Min distance (7.197732e+05) was found 1 cols ahead.
+
+Taking the first 15 reference rows & cols:
+
+Band #1:
+Min distance (5.448257e+05) was found 0 rows ahead.
+Min distance (1.632693e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (5.778380e+05) was found 0 rows ahead.
+Min distance (1.054698e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.027772e+06) was found 1 rows ahead.
+Min distance (2.264338e+06) was found 1 cols ahead.
+
+Taking the first 25 reference rows & cols:
+
+Band #1:
+Min distance (7.316641e+05) was found 0 rows ahead.
+Min distance (2.712671e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (7.349995e+05) was found 0 rows ahead.
+Min distance (1.756986e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.386886e+06) was found 1 rows ahead.
+Min distance (3.743981e+06) was found 1 cols ahead.
+
+Taking the first 35 reference rows & cols:
+
+Band #1:
+Min distance (9.124944e+05) was found 0 rows ahead.
+Min distance (3.866957e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (8.670936e+05) was found 0 rows ahead.
+Min distance (2.458096e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.714480e+06) was found 1 rows ahead.
+Min distance (5.392362e+06) was found 1 cols ahead.
+
+Taking the first 45 reference rows & cols:
+
+Band #1:
+Min distance (1.069284e+06) was found 0 rows ahead.
+Min distance (4.944757e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (9.711907e+05) was found 0 rows ahead.
+Min distance (3.156469e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.989480e+06) was found 1 rows ahead.
+Min distance (6.881797e+06) was found 1 cols ahead.
+
+Processing image #2:
+
+Reference Rows: 2240 3310 2810 3360 3030 3210 2640 2760 3550 3300 2540 2900 2860 2780 3280 4890 2830 2250 2670 3290 3320 3240 2550 5700 2740 3260 2790 3170 3250 3220 3480 2800 3350 2730 3130 2680 3520 2700 2880 3650 3490 3390 2630 2620 3160 
+Reference Cols: 6250 6470 6240 6220 6620 6590 6670 6560 6210 6680 6260 6270 6610 6520 6510 6230 6690 6580 6460 5860 6450 6820 7020 6700 5940 6540 6640 6750 6720 6530 6730 6570 6930 6800 6290 5910 6490 6440 6550 6420 6480 5900 6740 5730 6600 
+
+Taking the first 5 reference rows & cols:
+
+Band #1:
+Min distance (3.460185e+05) was found 1 rows ahead.
+Min distance (3.478765e+05) was found 2 cols ahead.
+
+Band #2:
+Min distance (2.007536e+05) was found 1 rows ahead.
+Min distance (3.030542e+05) was found 3 cols ahead.
+
+Band #3:
+Min distance (4.275392e+05) was found 0 rows ahead.
+Min distance (4.627425e+05) was found 1 cols ahead.
+
+Taking the first 15 reference rows & cols:
+
+Band #1:
+Min distance (6.085103e+05) was found 1 rows ahead.
+Min distance (1.061890e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (3.691935e+05) was found 1 rows ahead.
+Min distance (9.061164e+05) was found 3 cols ahead.
+
+Band #3:
+Min distance (7.526157e+05) was found 0 rows ahead.
+Min distance (1.368294e+06) was found 1 cols ahead.
+
+Taking the first 25 reference rows & cols:
+
+Band #1:
+Min distance (7.769843e+05) was found 1 rows ahead.
+Min distance (1.787019e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (4.776394e+05) was found 1 rows ahead.
+Min distance (1.495982e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (9.597925e+05) was found 0 rows ahead.
+Min distance (2.295055e+06) was found 1 cols ahead.
+
+Taking the first 35 reference rows & cols:
+
+Band #1:
+Min distance (9.177991e+05) was found 1 rows ahead.
+Min distance (2.504660e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (5.708904e+05) was found 1 rows ahead.
+Min distance (2.095238e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.133956e+06) was found 0 rows ahead.
+Min distance (3.196093e+06) was found 1 cols ahead.
+
+Taking the first 45 reference rows & cols:
+
+Band #1:
+Min distance (1.051166e+06) was found 1 rows ahead.
+Min distance (3.273690e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (6.524048e+05) was found 1 rows ahead.
+Min distance (2.669071e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.300513e+06) was found 0 rows ahead.
+Min distance (4.120989e+06) was found 1 cols ahead.
+
+Processing image #3:
+
+Reference Rows: 1460 1560 1540 1550 1510 1470 1490 1500 1520 1790 1530 1480 1810 1820 1570 1590 1990 1800 1910 1610 1890 2640 1780 2010 1600 1620 1630 1580 1390 1860 1660 1650 1980 2730 1770 1880 1900 1960 2780 2800 1760 1400 1200 2660 1450 
+Reference Cols: 2140 1810 3920 1790 2130 1800 2160 3930 1820 2120 3780 3910 4010 1940 1950 2150 2170 1620 1830 3890 1840 2180 3950 1880 1780 2070 2010 1890 1610 1600 3860 2190 1960 1760 3870 1850 1570 3980 1540 2050 3960 1860 3940 1910 1920 
+
+Taking the first 5 reference rows & cols:
+
+Band #1:
+Min distance (4.316441e+05) was found 0 rows ahead.
+Min distance (6.229978e+05) was found 2 cols ahead.
+
+Band #2:
+Min distance (3.112246e+05) was found 0 rows ahead.
+Min distance (3.658743e+05) was found 3 cols ahead.
+
+Band #3:
+Min distance (6.530827e+05) was found -1 rows ahead.
+Min distance (8.677569e+05) was found 1 cols ahead.
+
+Taking the first 15 reference rows & cols:
+
+Band #1:
+Min distance (7.919553e+05) was found 0 rows ahead.
+Min distance (1.898348e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (5.813411e+05) was found 0 rows ahead.
+Min distance (1.079924e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.219843e+06) was found -1 rows ahead.
+Min distance (2.642180e+06) was found 1 cols ahead.
+
+Taking the first 25 reference rows & cols:
+
+Band #1:
+Min distance (1.033604e+06) was found 0 rows ahead.
+Min distance (3.110005e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (7.515211e+05) was found 0 rows ahead.
+Min distance (1.783354e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.586771e+06) was found -1 rows ahead.
+Min distance (4.272405e+06) was found 1 cols ahead.
+
+Taking the first 35 reference rows & cols:
+
+Band #1:
+Min distance (1.221672e+06) was found 0 rows ahead.
+Min distance (4.323841e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (8.922934e+05) was found 0 rows ahead.
+Min distance (2.499430e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.876553e+06) was found -1 rows ahead.
+Min distance (5.963899e+06) was found 1 cols ahead.
+
+Taking the first 45 reference rows & cols:
+
+Band #1:
+Min distance (1.397597e+06) was found 1 rows ahead.
+Min distance (5.565075e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (1.017580e+06) was found 0 rows ahead.
+Min distance (3.215839e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (2.130966e+06) was found -1 rows ahead.
+Min distance (7.685053e+06) was found 1 cols ahead.
+
+Processing image #4:
+
+Reference Rows: 6690 6190 6070 5840 6110 5860 6220 6240 5730 6130 7620 6160 6210 7480 6180 6140 7010 6520 5300 6230 6620 7380 6100 6050 7730 7440 5770 7580 7500 7280 6330 5940 7160 6090 5760 7270 7650 6040 6170 6030 5990 5590 7000 6410 6720 
+Reference Cols: 3650 3410 3600 3360 3640 3450 3420 3370 3590 7940 3570 3430 3750 3560 3580 3760 7920 3690 3670 3630 3380 3990 3460 3740 3800 3700 3810 3390 4120 3820 7930 3520 3620 5630 7950 4050 3920 4060 3550 3310 3440 3300 3400 4260 7170 
+
+Taking the first 5 reference rows & cols:
+
+Band #1:
+Min distance (3.241823e+05) was found -38 rows ahead.
+Min distance (4.470708e+05) was found 2 cols ahead.
+
+Band #2:
+Min distance (2.775057e+05) was found 0 rows ahead.
+Min distance (3.415724e+05) was found 3 cols ahead.
+
+Band #3:
+Min distance (4.850200e+05) was found 1 rows ahead.
+Min distance (6.222911e+05) was found 0 cols ahead.
+
+Taking the first 15 reference rows & cols:
+
+Band #1:
+Min distance (5.957192e+05) was found -39 rows ahead.
+Min distance (1.380261e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (5.065639e+05) was found 0 rows ahead.
+Min distance (1.002460e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (8.826482e+05) was found 1 rows ahead.
+Min distance (1.869545e+06) was found 1 cols ahead.
+
+Taking the first 25 reference rows & cols:
+
+Band #1:
+Min distance (8.005222e+05) was found -39 rows ahead.
+Min distance (2.283467e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (6.691910e+05) was found 0 rows ahead.
+Min distance (1.644815e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.174367e+06) was found 1 rows ahead.
+Min distance (3.075877e+06) was found 1 cols ahead.
+
+Taking the first 35 reference rows & cols:
+
+Band #1:
+Min distance (9.678291e+05) was found -39 rows ahead.
+Min distance (3.206813e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (7.965029e+05) was found 0 rows ahead.
+Min distance (2.300563e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.407671e+06) was found 1 rows ahead.
+Min distance (4.296939e+06) was found 1 cols ahead.
+
+Taking the first 45 reference rows & cols:
+
+Band #1:
+Min distance (1.101028e+06) was found -39 rows ahead.
+Min distance (4.115220e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (9.092662e+05) was found 0 rows ahead.
+Min distance (2.964331e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.599692e+06) was found 1 rows ahead.
+Min distance (5.486316e+06) was found 1 cols ahead.
+
+Processing image #5:
+
+Reference Rows: 2160 2130 1120 320 2480 1090 1130 330 2600 690 2140 230 2180 2640 2490 820 1630 1100 1510 2120 2150 830 2170 1590 1190 210 2290 1040 1530 340 2500 770 840 1150 350 2270 220 2630 3340 2190 1570 1030 2650 2620 1540 
+Reference Cols: 1590 1600 1610 7950 7940 7430 7400 7420 7340 7960 1800 6210 7360 7460 6120 7330 7540 1560 1760 7410 1750 7390 1810 1520 7300 7350 7930 6230 7290 1460 7370 7310 6030 5570 7530 6110 6140 7490 6200 6170 7500 7440 1790 6280 7480 
+
+Taking the first 5 reference rows & cols:
+
+Band #1:
+Min distance (5.941163e+05) was found 0 rows ahead.
+Min distance (6.928003e+05) was found 2 cols ahead.
+
+Band #2:
+Min distance (2.726206e+05) was found -1 rows ahead.
+Min distance (4.805566e+05) was found 3 cols ahead.
+
+Band #3:
+Min distance (9.594455e+05) was found 1 rows ahead.
+Min distance (1.190188e+06) was found 1 cols ahead.
+
+Taking the first 15 reference rows & cols:
+
+Band #1:
+Min distance (1.031577e+06) was found 0 rows ahead.
+Min distance (2.090780e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (4.927750e+05) was found -1 rows ahead.
+Min distance (1.409935e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.680168e+06) was found 1 rows ahead.
+Min distance (3.768509e+06) was found 1 cols ahead.
+
+Taking the first 25 reference rows & cols:
+
+Band #1:
+Min distance (1.343178e+06) was found 0 rows ahead.
+Min distance (3.488048e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (6.523112e+05) was found -1 rows ahead.
+Min distance (2.342876e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (2.185046e+06) was found 1 rows ahead.
+Min distance (6.242718e+06) was found 1 cols ahead.
+
+Taking the first 35 reference rows & cols:
+
+Band #1:
+Min distance (1.592529e+06) was found 0 rows ahead.
+Min distance (4.849498e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (7.718716e+05) was found -1 rows ahead.
+Min distance (3.232246e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (2.589104e+06) was found 1 rows ahead.
+Min distance (8.755396e+06) was found 1 cols ahead.
+
+Taking the first 45 reference rows & cols:
+
+Band #1:
+Min distance (1.789546e+06) was found 0 rows ahead.
+Min distance (6.283301e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (8.767725e+05) was found -1 rows ahead.
+Min distance (4.127531e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (2.924096e+06) was found 1 rows ahead.
+Min distance (1.127558e+07) was found 1 cols ahead.
+
+Processing image #6:
+
+Reference Rows: 7640 7630 7650 7660 7680 7670 7720 7610 7790 7800 7780 7840 7990 7860 7690 7700 7930 7710 7590 7620 7600 7580 7880 7920 7820 7810 7770 7910 7760 7970 7850 6990 7830 6960 7950 7960 7000 7730 7540 7530 6980 7070 6950 6940 7750 
+Reference Cols: 350 340 260 330 430 230 320 310 220 250 470 460 280 240 400 300 210 360 380 480 440 490 450 290 410 420 370 510 390 270 500 530 590 670 580 540 690 550 520 560 6850 600 720 6590 610 
+
+Taking the first 5 reference rows & cols:
+
+Band #1:
+Min distance (5.741785e+05) was found 0 rows ahead.
+Min distance (8.913161e+05) was found 2 cols ahead.
+
+Band #2:
+Min distance (5.291765e+05) was found 0 rows ahead.
+Min distance (6.671878e+05) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.071298e+06) was found 1 rows ahead.
+Min distance (1.252886e+06) was found 1 cols ahead.
+
+Taking the first 15 reference rows & cols:
+
+Band #1:
+Min distance (1.086911e+06) was found 0 rows ahead.
+Min distance (2.660546e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (1.031939e+06) was found 0 rows ahead.
+Min distance (2.036591e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (2.059603e+06) was found 1 rows ahead.
+Min distance (3.743241e+06) was found 1 cols ahead.
+
+Taking the first 25 reference rows & cols:
+
+Band #1:
+Min distance (1.404448e+06) was found 0 rows ahead.
+Min distance (4.415831e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (1.370584e+06) was found 0 rows ahead.
+Min distance (3.469366e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (2.675014e+06) was found 1 rows ahead.
+Min distance (6.372918e+06) was found 1 cols ahead.
+
+Taking the first 35 reference rows & cols:
+
+Band #1:
+Min distance (1.664124e+06) was found 0 rows ahead.
+Min distance (6.133537e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (1.618527e+06) was found 0 rows ahead.
+Min distance (5.014673e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (3.164817e+06) was found 1 rows ahead.
+Min distance (9.182627e+06) was found 1 cols ahead.
+
+Taking the first 45 reference rows & cols:
+
+Band #1:
+Min distance (1.879607e+06) was found 0 rows ahead.
+Min distance (7.723358e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (1.807855e+06) was found 0 rows ahead.
+Min distance (6.538487e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (3.523906e+06) was found 1 rows ahead.
+Min distance (1.195281e+07) was found 1 cols ahead.
+
+Processing image #7:
+
+Reference Rows: 2290 2680 2270 2950 2670 2710 2870 2860 2620 2560 2700 2650 2640 2470 3010 2690 2580 2720 2600 2660 2730 2890 2770 2820 2760 2940 2480 2800 2530 2850 2880 2490 2830 2610 2910 2520 2740 3290 2410 2550 2630 2930 2460 2570 2750 
+Reference Cols: 280 320 370 270 460 330 260 210 300 290 250 580 220 310 380 410 230 390 340 790 570 360 870 920 440 890 860 400 350 240 480 490 780 530 810 600 500 1140 910 850 520 620 930 730 590 
+
+Taking the first 5 reference rows & cols:
+
+Band #1:
+Min distance (1.197161e+06) was found 0 rows ahead.
+Min distance (1.320250e+06) was found 0 cols ahead.
+
+Band #2:
+Min distance (1.329206e+05) was found 0 rows ahead.
+Min distance (1.771100e+05) was found 3 cols ahead.
+
+Band #3:
+Min distance (8.779718e+05) was found 0 rows ahead.
+Min distance (8.516612e+05) was found 9 cols ahead.
+
+Taking the first 15 reference rows & cols:
+
+Band #1:
+Min distance (2.151338e+06) was found -1 rows ahead.
+Min distance (3.951824e+06) was found 10 cols ahead.
+
+Band #2:
+Min distance (2.481574e+05) was found 0 rows ahead.
+Min distance (5.283700e+05) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.550437e+06) was found 0 rows ahead.
+Min distance (2.546798e+06) was found 6 cols ahead.
+
+Taking the first 25 reference rows & cols:
+
+Band #1:
+Min distance (2.768638e+06) was found -1 rows ahead.
+Min distance (6.576584e+06) was found -8 cols ahead.
+
+Band #2:
+Min distance (3.221491e+05) was found 0 rows ahead.
+Min distance (8.632423e+05) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.990556e+06) was found 0 rows ahead.
+Min distance (4.280190e+06) was found -8 cols ahead.
+
+Taking the first 35 reference rows & cols:
+
+Band #1:
+Min distance (3.264533e+06) was found -1 rows ahead.
+Min distance (9.226506e+06) was found 1 cols ahead.
+
+Band #2:
+Min distance (3.832418e+05) was found 0 rows ahead.
+Min distance (1.197373e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (2.337372e+06) was found 0 rows ahead.
+Min distance (6.020481e+06) was found 5 cols ahead.
+
+Taking the first 45 reference rows & cols:
+
+Band #1:
+Min distance (3.673215e+06) was found -1 rows ahead.
+Min distance (1.185734e+07) was found 2 cols ahead.
+
+Band #2:
+Min distance (4.343074e+05) was found 0 rows ahead.
+Min distance (1.514967e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (2.636202e+06) was found 0 rows ahead.
+Min distance (7.733317e+06) was found 8 cols ahead.
+
+Processing image #8:
+
+Reference Rows: 3930 4290 4050 3800 3920 1940 3730 4100 1960 2930 4060 3780 2870 3940 3740 3310 760 1290 3850 3960 2950 4690 440 2760 2740 2890 1120 2820 3290 3810 1020 950 1250 3340 3860 3420 2550 3790 4230 3320 3900 2800 3230 1550 960 
+Reference Cols: 3140 4860 240 1600 1940 1610 290 4790 360 4910 3160 340 3150 3810 1590 3130 4870 3080 3790 4580 3410 4460 740 4420 370 3030 1630 5340 3290 1670 3450 1910 3110 4890 4640 4780 5090 310 4540 1920 3040 1580 3170 3800 3090 
+
+Taking the first 5 reference rows & cols:
+
+Band #1:
+Min distance (1.641409e+05) was found 0 rows ahead.
+Min distance (2.407219e+05) was found 2 cols ahead.
+
+Band #2:
+Min distance (1.326565e+05) was found 0 rows ahead.
+Min distance (1.686588e+05) was found 3 cols ahead.
+
+Band #3:
+Min distance (2.946267e+05) was found 0 rows ahead.
+Min distance (4.160183e+05) was found 1 cols ahead.
+
+Taking the first 15 reference rows & cols:
+
+Band #1:
+Min distance (2.976719e+05) was found 0 rows ahead.
+Min distance (7.156031e+05) was found 2 cols ahead.
+
+Band #2:
+Min distance (2.465189e+05) was found 0 rows ahead.
+Min distance (5.041471e+05) was found 3 cols ahead.
+
+Band #3:
+Min distance (5.384907e+05) was found 0 rows ahead.
+Min distance (1.231156e+06) was found 1 cols ahead.
+
+Taking the first 25 reference rows & cols:
+
+Band #1:
+Min distance (3.933291e+05) was found 0 rows ahead.
+Min distance (1.180250e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (3.229853e+05) was found 0 rows ahead.
+Min distance (8.324902e+05) was found 3 cols ahead.
+
+Band #3:
+Min distance (7.057237e+05) was found 0 rows ahead.
+Min distance (2.024508e+06) was found 1 cols ahead.
+
+Taking the first 35 reference rows & cols:
+
+Band #1:
+Min distance (4.750404e+05) was found 0 rows ahead.
+Min distance (1.640033e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (3.840634e+05) was found 0 rows ahead.
+Min distance (1.154742e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (8.456583e+05) was found 0 rows ahead.
+Min distance (2.797105e+06) was found 1 cols ahead.
+
+Taking the first 45 reference rows & cols:
+
+Band #1:
+Min distance (5.390592e+05) was found 0 rows ahead.
+Min distance (2.102091e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (4.341617e+05) was found 0 rows ahead.
+Min distance (1.485344e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (9.521792e+05) was found 0 rows ahead.
+Min distance (3.587838e+06) was found 1 cols ahead.
+
+Processing image #9:
+
+Reference Rows: 4030 7540 4250 3730 3570 3810 4110 510 3960 5120 6950 3710 3270 3530 3760 7290 4500 4080 4490 6640 4420 4120 4280 3680 3690 4300 7500 7560 4220 4360 6980 4310 4040 5070 7180 4200 7390 6050 4170 4460 3600 4400 3540 4090 3580 
+Reference Cols: 1360 1340 1350 1410 1390 1510 1400 1500 1370 1460 1540 1380 1330 1480 1450 1490 2550 1440 1310 1530 2590 2600 2580 1470 2670 1290 1300 2530 1520 1430 1260 1420 2560 1210 1320 2510 1280 2610 1230 1160 2500 2540 1570 2570 1220 
+
+Taking the first 5 reference rows & cols:
+
+Band #1:
+Min distance (1.472694e+05) was found 0 rows ahead.
+Min distance (2.894405e+05) was found 2 cols ahead.
+
+Band #2:
+Min distance (1.240799e+05) was found 0 rows ahead.
+Min distance (2.298396e+05) was found 3 cols ahead.
+
+Band #3:
+Min distance (3.220705e+05) was found 0 rows ahead.
+Min distance (5.359987e+05) was found 1 cols ahead.
+
+Taking the first 15 reference rows & cols:
+
+Band #1:
+Min distance (2.595379e+05) was found 0 rows ahead.
+Min distance (8.482463e+05) was found 2 cols ahead.
+
+Band #2:
+Min distance (2.331176e+05) was found 0 rows ahead.
+Min distance (6.737382e+05) was found 3 cols ahead.
+
+Band #3:
+Min distance (5.742668e+05) was found 0 rows ahead.
+Min distance (1.573447e+06) was found 1 cols ahead.
+
+Taking the first 25 reference rows & cols:
+
+Band #1:
+Min distance (3.348030e+05) was found 0 rows ahead.
+Min distance (1.297445e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (3.042450e+05) was found 0 rows ahead.
+Min distance (1.035861e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (7.359365e+05) was found 0 rows ahead.
+Min distance (2.334372e+06) was found 1 cols ahead.
+
+Taking the first 35 reference rows & cols:
+
+Band #1:
+Min distance (3.990540e+05) was found 0 rows ahead.
+Min distance (1.788442e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (3.671219e+05) was found 0 rows ahead.
+Min distance (1.468850e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (8.827064e+05) was found 0 rows ahead.
+Min distance (3.255866e+06) was found 1 cols ahead.
+
+Taking the first 45 reference rows & cols:
+
+Band #1:
+Min distance (4.528023e+05) was found 0 rows ahead.
+Min distance (2.224436e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (4.173987e+05) was found 0 rows ahead.
+Min distance (1.880568e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (9.991062e+05) was found 0 rows ahead.
+Min distance (4.063936e+06) was found 1 cols ahead.
+
+Processing image #10:
+
+Reference Rows: 7970 7870 7860 7950 7880 7920 6590 7890 7990 6550 7960 7980 7850 7900 7140 7500 7840 7940 7800 6060 6610 7930 6650 7770 6570 7670 6510 7910 7750 7820 7470 7830 2280 7810 7680 6330 6630 5810 7780 7740 6110 5730 7720 6500 6210 
+Reference Cols: 7830 7810 7960 7860 7950 7820 7780 7850 7300 7770 7890 7740 7930 7840 7540 7800 7550 7920 7790 7170 7870 7330 7230 7940 7730 7880 4030 7320 7520 4350 7910 7290 7220 7260 4410 4420 7760 4250 4430 7240 4230 7250 7570 7900 4290 
+
+Taking the first 5 reference rows & cols:
+
+Band #1:
+Min distance (3.742492e+05) was found 1 rows ahead.
+Min distance (6.942092e+05) was found 2 cols ahead.
+
+Band #2:
+Min distance (2.438189e+05) was found 1 rows ahead.
+Min distance (4.342589e+05) was found 3 cols ahead.
+
+Band #3:
+Min distance (4.966431e+05) was found 0 rows ahead.
+Min distance (8.593759e+05) was found 2 cols ahead.
+
+Taking the first 15 reference rows & cols:
+
+Band #1:
+Min distance (7.092102e+05) was found 1 rows ahead.
+Min distance (2.043673e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (4.596047e+05) was found 1 rows ahead.
+Min distance (1.262642e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (9.504031e+05) was found 0 rows ahead.
+Min distance (2.501668e+06) was found 2 cols ahead.
+
+Taking the first 25 reference rows & cols:
+
+Band #1:
+Min distance (9.446927e+05) was found 0 rows ahead.
+Min distance (3.339423e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (6.033551e+05) was found 1 rows ahead.
+Min distance (2.054871e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.255063e+06) was found 0 rows ahead.
+Min distance (4.151250e+06) was found 1 cols ahead.
+
+Taking the first 35 reference rows & cols:
+
+Band #1:
+Min distance (1.126776e+06) was found 0 rows ahead.
+Min distance (4.510887e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (7.175119e+05) was found 1 rows ahead.
+Min distance (2.775979e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.496599e+06) was found 0 rows ahead.
+Min distance (5.646056e+06) was found 1 cols ahead.
+
+Taking the first 45 reference rows & cols:
+
+Band #1:
+Min distance (1.274719e+06) was found 0 rows ahead.
+Min distance (5.605895e+06) was found 2 cols ahead.
+
+Band #2:
+Min distance (8.165382e+05) was found 1 rows ahead.
+Min distance (3.473100e+06) was found 3 cols ahead.
+
+Band #3:
+Min distance (1.696311e+06) was found 0 rows ahead.
+Min distance (7.073925e+06) was found 1 cols ahead.
